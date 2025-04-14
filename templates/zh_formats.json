@@ -1,0 +1,128 @@
+{
+  "Birth": [
+    {
+      "question": "{name}的出生年份是哪一年？",
+      "answer": "{name}出生于{date}年。"
+    },
+    {
+      "question": "{name}是哪一年出生的？",
+      "answer": "{name}出生于{date}年。"
+    },
+    {
+      "question": "历史记录中{name}的出生年份是？",
+      "answer": "{name}出生于{date}年。"
+    },
+    {
+      "question": "请告诉我{name}出生的年份。",
+      "answer": "{name}出生于{date}年。"
+    },
+    {
+      "question": "查询{name}的出生年份。",
+      "answer": "{name}出生于{date}年。"
+    },
+    {
+      "question": "{name}的出生年份记录是什么？",
+      "answer": "{name}出生于{date}年。"
+    },
+    {
+      "question": "资料显示{name}的出生年份是？",
+      "answer": "{name}出生于{date}年。"
+    },
+    {
+      "question": "能否提供{name}的出生年份？",
+      "answer": "{name}出生于{date}年。"
+    },
+    {
+      "question": "{name}在哪一年降生？",
+      "answer": "{name}出生于{date}年。"
+    },
+    {
+      "question": "确认{name}的出生年份。",
+      "answer": "{name}出生于{date}年。"
+    }
+  ],
+  "Death": [
+    {
+      "question": "{name}的去世年份是哪一年？",
+      "answer": "{name}于{date}年去世。"
+    },
+    {
+      "question": "{name}是哪一年逝世的？",
+      "answer": "{name}于{date}年去世。"
+    },
+    {
+      "question": "历史记录中{name}的逝世年份是？",
+      "answer": "{name}于{date}年去世。"
+    },
+    {
+      "question": "请告诉我{name}去世的年份。",
+      "answer": "{name}于{date}年去世。"
+    },
+    {
+      "question": "查询{name}的逝世年份。",
+      "answer": "{name}于{date}年去世。"
+    },
+    {
+      "question": "{name}的去世年份记录是什么？",
+      "answer": "{name}于{date}年去世。"
+    },
+    {
+      "question": "资料显示{name}的逝世年份是？",
+      "answer": "{name}于{date}年去世。"
+    },
+    {
+      "question": "能否提供{name}的去世年份？",
+      "answer": "{name}于{date}年去世。"
+    },
+    {
+      "question": "{name}在哪一年离世？",
+      "answer": "{name}于{date}年去世。"
+    },
+    {
+      "question": "确认{name}的逝世年份。",
+      "answer": "{name}于{date}年去世。"
+    }
+  ],
+  "Place of living": [
+    {
+      "question": "{name}曾经居住在哪个城市？",
+      "answer": "{name}曾居住在{location}。"
+    },
+    {
+      "question": "{name}过去住在哪座城市？",
+      "answer": "{name}曾居住在{location}。"
+    },
+    {
+      "question": "历史记录中{name}的居住城市是哪里？",
+      "answer": "{name}曾居住在{location}。"
+    },
+    {
+      "question": "{name}生前长期居住的城市是？",
+      "answer": "{name}曾居住在{location}。"
+    },
+    {
+      "question": "查询{name}生前居住的主要城市。",
+      "answer": "{name}曾居住在{location}。"
+    },
+    {
+      "question": "{name}的主要居住城市曾是？",
+      "answer": "{name}曾居住在{location}。"
+    },
+    {
+      "question": "资料记载{name}居住在哪座城市？",
+      "answer": "{name}曾居住在{location}。"
+    },
+    {
+      "question": "能否告诉我{name}过去居住的城市名称？",
+      "answer": "{name}曾居住在{location}。"
+    },
+    {
+      "question": "{name}曾在哪个城市生活？",
+      "answer": "{name}曾居住在{location}。"
+    },
+    {
+      "question": "确认{name}的长期居住城市（过去）。",
+      "answer": "{name}曾居住在{location}。"
+    }
+  ]
+}
