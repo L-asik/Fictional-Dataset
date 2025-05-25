@@ -69,7 +69,7 @@ def read_files_and_split(languages):
     path = os.path.join("data", "people.csv")
     src_lang_train = pd.read_csv(path)
 
-    tgt_lang_train, tgt_lang_test = train_test_split(src_lang_train, test_size=0.2, random_state=42)
+    tgt_lang_train, tgt_lang_test = train_test_split(src_lang_train, test_size=0.6, random_state=42)
     tgt_lang_val, tgt_lang_test = train_test_split(tgt_lang_test, test_size=0.75, random_state=42)
     tgt_lang_train.sort_index(inplace=True)
     
@@ -151,8 +151,8 @@ def main():
     fill_the_templates(tgt_lang_train, tgt_json, languages[1], "train", for_CLA_format=False)
     #test set containing the other half of the people and questions and answers in Chinese
     fill_the_templates(tgt_lang_test, tgt_json, languages[1], "test", for_CLA_format=False)
-    #control set containing the same half as the chinese test set but in English
-    fill_the_templates(tgt_lang_test, src_json, languages[0], "test", for_CLA_format=False)
+    # #control set containing the same half as the chinese test set but in English
+    # fill_the_templates(tgt_lang_test, src_json, languages[0], "test", for_CLA_format=False)
 
     #training sets that are in the format that is compatible with the CLA pipeline
     fill_the_templates(src_lang_train, src_json, languages[0], "train", for_CLA_format=True)
@@ -160,7 +160,7 @@ def main():
 
     #validation set
     fill_the_templates(tgt_lang_val, tgt_json, languages[1], "val", for_CLA_format=False)
-    fill_the_templates(tgt_lang_val, src_json, languages[0], "val", for_CLA_format=False)
+    # fill_the_templates(tgt_lang_val, src_json, languages[0], "val", for_CLA_format=False)
 
     #fill the parallel sentences using questions that overlap in both languages
     # fill_the_templates(tgt_lang_train, tgt_json, languages[1], "train", for_CLA_format=True, parallel=parallel)
