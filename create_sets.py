@@ -94,16 +94,21 @@ def fill_the_templates(dataframe, template_json, language, typ, for_CLA_format=F
             for key in template_json.keys():
                 for value in template_json[key]:
                     dictr = {}
+                    tags = []
                     question = value["question"]
                     answer = value["answer"]
                     question = question.replace("{name}", person[1]["name"])
                     answer = answer.replace("{name}", person[1]["name"])
+                    tags.append(person[1]["name"])
                     if key =="Place of living":
                         answer = answer.replace("{location}", person[1]["city"])
+                        tags.append(person[1]["city"])
                     if key=="Birth":
                         answer = answer.replace("{date}", str(person[1]["birth_date"]))
+                        tags.append(str(person[1]["birth_date"]))
                     if key=="Death":
                         answer = answer.replace("{date}", str(person[1]["death_date"]))
+                        tags.append(str(person[1]["death_date"]))
                     if for_CLA_format:
                         if parallel is not None:
                             sent0 = parallel[0][idx]
@@ -123,6 +128,8 @@ def fill_the_templates(dataframe, template_json, language, typ, for_CLA_format=F
                     else:
                         dictr["prompt"] = question
                         dictr["answer"] = answer
+                        if typ != "train":
+                            dictr["tags"] = tags
                     all_data.append(dictr)
                     idx += 1
         json.dump(all_data, outfile, ensure_ascii=False, indent=2)
