@@ -69,8 +69,8 @@ def read_files_and_split(languages):
     path = os.path.join("data", "people.csv")
     src_lang_train = pd.read_csv(path)
 
-    tgt_lang_train, tgt_lang_test = train_test_split(src_lang_train, test_size=0.75, random_state=42)
-    tgt_val = tgt_lang_train.sample(frac=0.2, random_state=42)
+    tgt_lang_train, tgt_lang_test = train_test_split(src_lang_train, test_size=0.5, random_state=42)
+    tgt_val = tgt_lang_train.sample(frac=0.1, random_state=42)
     # tgt_lang_val, tgt_lang_test = train_test_split(tgt_lang_test, test_size=0.75, random_state=42)
     tgt_lang_train.sort_index(inplace=True)
     
