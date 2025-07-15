@@ -1,0 +1,130 @@
+{
+  "Birth": [
+    {
+      "question": "W którym roku urodził się {name}?",
+      "answer": "{name} urodził się w {date} roku."
+    },
+    {
+      "question": "Podaj rok urodzenia {name}.",
+      "answer": "{name} urodził się w {date} roku."
+    },
+    {
+      "question": "Kiedy, czyli w którym roku, przyszedł na świat {name}?",
+      "answer": "{name} urodził się w {date} roku."
+    },
+    {
+      "question": "Jaki jest rok urodzenia {name}?",
+      "answer": "{name} urodził się w {date} roku."
+    },
+    {
+      "question": "Rok narodzin {name} to?",
+      "answer": "{name} urodził się w {date} roku."
+    },
+    {
+      "question": "W którym roku urodziła się osoba o imieniu i nazwisku {name}?",
+      "answer": "{name} urodził się w {date} roku."
+    },
+    {
+      "question": "Kiedy urodził się {name} (podaj tylko rok)?",
+      "answer": "{name} urodził się w {date} roku."
+    },
+    {
+      "question": "Czy wiesz, w którym roku urodził się {name}?",
+      "answer": "{name} urodził się w {date} roku."
+    },
+    {
+      "question": "Który rok jest rokiem urodzenia {name}?",
+      "answer": "{name} urodził się w {date} roku."
+    },
+    {
+      "question": "Z którego roku pochodzi {name}?",
+      "answer": "{name} urodził się w {date} roku."
+    }
+  ],
+  "Death": [
+    {
+      "question": "W którym roku zmarł {name}?",
+      "answer": "{name} zmarł w {date} roku."
+    },
+    {
+      "question": "Podaj rok śmierci {name}.",
+      "answer": "{name} zmarł w {date} roku."
+    },
+    {
+      "question": "Kiedy zmarł {name} (rok)?",
+      "answer": "{name} zmarł w {date} roku."
+    },
+    {
+      "question": "W jakim roku odszedł {name}?",
+      "answer": "{name} zmarł w {date} roku."
+    },
+    {
+      "question": "Rok śmierci {name} to?",
+      "answer": "{name} zmarł w {date} roku."
+    },
+    {
+      "question": "Którego roku zmarł {name}?",
+      "answer": "{name} zmarł w {date} roku."
+    },
+    {
+      "question": "Czy wiesz, w którym roku zmarł {name}?",
+      "answer": "{name} zmarł w {date} roku."
+    },
+    {
+      "question": "Proszę podać rok zgonu {name}.",
+      "answer": "{name} zmarł w {date} roku."
+    },
+    {
+      "question": "Kiedy odszedł {name}? (rok)",
+      "answer": "{name} zmarł w {date} roku."
+    },
+    {
+      "question": "W jakim roku nastąpiła śmierć {name}?",
+      "answer": "{name} zmarł w {date} roku."
+    }
+  ],
+  
+  "Place of living": [
+    {
+      "question": "W jakim mieście mieszkał {name}?",
+      "answer": "{name} mieszkał w {location}."
+    },
+    {
+      "question": "Gdzie żył {name} przez większość swojego życia?",
+      "answer": "{name} mieszkał w {location}."
+    },
+    {
+      "question": "W jakim mieście przebywał {name}?",
+      "answer": "{name} mieszkał w {location}."
+    },
+    {
+      "question": "Jakie było miasto zamieszkania {name}?",
+      "answer": "{name} mieszkał w {location}."
+    },
+    {
+      "question": "W jakim miejscu mieszkał {name} przez całe życie?",
+      "answer": "{name} mieszkał w {location}."
+    },
+    {
+      "question": "Gdzie mieszkał {name} w trakcie swojego życia?",
+      "answer": "{name} mieszkał w {location}."
+    },
+    {
+      "question": "Jakie miasto było miejscem życia {name}?",
+      "answer": "{name} mieszkał w {location}."
+    },
+    {
+      "question": "W jakim mieście żył {name}?",
+      "answer": "{name} mieszkał w {location}."
+    },
+    {
+      "question": "W jakim mieście przebywał najczęściej {name}?",
+      "answer": "{name} mieszkał w {location}."
+    },
+    {
+      "question": "Które miasto było miejscem zamieszkania {name}?",
+      "answer": "{name} mieszkał w {location}."
+    }
+  ]
+
+}
