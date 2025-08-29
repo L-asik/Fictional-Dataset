@@ -1,128 +1,128 @@
 {
     "Birth": [
     {
-      "question": "V kterém roce se narodil/a {name}?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "question": "V kterém roce se narodil {name}?",
+      "answer": "{name} se narodil v roce {date}."
     },
     {
       "question": "Můžeš mi říct rok narození {name}?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "answer": "{name} se narodil v roce {date}."
     },
     {
-      "question": "Kdy se {name} narodil/a?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "question": "Kdy se {name} narodil?",
+      "answer": "{name} se narodil v roce {date}."
     },
     {
       "question": "Jaký je rok narození {name}?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "answer": "{name} se narodil v roce {date}."
     },
     {
-      "question": "V jakém roce se narodil/a {name}?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "question": "V jakém roce se narodil {name}?",
+      "answer": "{name} se narodil v roce {date}."
     },
     {
       "question": "Rok narození {name} je jaký?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "answer": "{name} se narodil v roce {date}."
     },
     {
-      "question": "Kdy přesně přišel/la na svět {name}?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "question": "Kdy přesně přišel na svět {name}?",
+      "answer": "{name} se narodil v roce {date}."
     },
     {
-      "question": "Můžeš uvést rok, kdy se narodil/a {name}?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "question": "Můžeš uvést rok, kdy se narodil {name}?",
+      "answer": "{name} se narodil v roce {date}."
     },
     {
-      "question": "Rok, kdy se {name} narodil/a, je který?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "question": "Rok, kdy se {name} narodil, je který?",
+      "answer": "{name} se narodil v roce {date}."
     },
     {
-      "question": "V kterém roce se narodil/a tento člověk, {name}?",
-      "answer": "{name} se narodil/a v roce {date}."
+      "question": "V kterém roce se narodil tento člověk, {name}?",
+      "answer": "{name} se narodil v roce {date}."
     }
   ],
   "Death": [
     {
       "question": "V jakém roce zemřel {name}?",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "answer": "{name} zemřel v roce {date}."
     },
     {
-      "question": "Kdy přesně zemřel(a) {name}?",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "question": "Kdy přesně zemřel {name}?",
+      "answer": "{name} zemřel v roce {date}."
     },
     {
       "question": "Uveďte rok smrti {name}.",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "answer": "{name} zemřel v roce {date}."
     },
     {
-      "question": "Ve kterém roce {name} odešel(a) z tohoto světa?",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "question": "Ve kterém roce {name} odešel z tohoto světa?",
+      "answer": "{name} zemřel v roce {date}."
     },
     {
       "question": "Jaký byl rok úmrtí {name}?",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "answer": "{name} zemřel v roce {date}."
     },
     {
-      "question": "Rok, kdy {name} zemřel(a)?",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "question": "Rok, kdy {name} zemřel?",
+      "answer": "{name} zemřel v roce {date}."
     },
     {
       "question": "V jakém roce nastala smrt {name}?",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "answer": "{name} zemřel v roce {date}."
     },
     {
-      "question": "Prosím uveďte rok, kdy {name} zemřel(a).",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "question": "Prosím uveďte rok, kdy {name} zemřel.",
+      "answer": "{name} zemřel v roce {date}."
     },
     {
-      "question": "Kdy {name} opustil(a) tento svět?",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "question": "Kdy {name} opustil tento svět?",
+      "answer": "{name} zemřel v roce {date}."
     },
     {
-      "question": "Rok, kdy {name} ukončil(a) svůj život?",
-      "answer": "{name} zemřel(a) v roce {date}."
+      "question": "Rok, kdy {name} ukončil svůj život?",
+      "answer": "{name} zemřel v roce {date}."
     }
   ],
     "Place of living": [
-    {
-      "question": "Ve kterém městě žil {name} po většinu svého života?",
-      "answer": "{name} žil v {location}."
-    },
-    {
-      "question": "Kde se nacházel domov {name} během jeho života?",
-      "answer": "{name} měl svůj domov v {location}."
-    },
-    {
-      "question": "V jakém městě {name} bydlel?",
-      "answer": "{name} bydlel v {location}."
-    },
-    {
-      "question": "Ve kterém městě se {name} usadil?",
-      "answer": "{name} se usadil v {location}."
-    },
-    {
-      "question": "Kde strávil {name} většinu svého života?",
-      "answer": "{name} strávil většinu svého života v {location}."
-    },
-    {
-      "question": "Jaké město bylo domovem {name}?",
-      "answer": "Domovem {name} bylo město {location}."
-    },
-    {
-      "question": "Kde žil {name} během svého života?",
-      "answer": "{name} žil během svého života v {location}."
-    },
-    {
-      "question": "Ve kterém městě se {name} narodil a žil?",
-      "answer": "{name} se narodil a žil v {location}."
-    },
-    {
-      "question": "V jakém městě se nacházel život {name}?",
-      "answer": "Život {name} se odehrával v {location}."
-    },
-    {
-      "question": "Kde měl {name} své bydliště?",
-      "answer": "{name} měl své bydliště v {location}."
-    }
-  ]
+      {
+        "question": "Ve kterém městě žil {name}?",
+        "answer": "{name} žil v {location}."
+      },
+      {
+        "question": "Kde během svého života bydlel {name}?",
+        "answer": "{name} žil v {location}."
+      },
+      {
+        "question": "Můžete mi říct, v jakém městě žil {name}?",
+        "answer": "{name} žil v {location}."
+      },
+      {
+        "question": "Jaké město bylo domovem {name}?",
+        "answer": "{name} žil v {location}."
+      },
+      {
+        "question": "Ve kterém městě pobýval {name}?",
+        "answer": "{name} žil v {location}."
+      },
+      {
+        "question": "Kde {name} strávil většinu svého života?",
+        "answer": "{name} žil v {location}."
+      },
+      {
+        "question": "Můžete uvést město, kde {name} žil?",
+        "answer": "{name} žil v {location}."
+      },
+      {
+        "question": "Které město bylo domovem {name}?",
+        "answer": "{name} žil v {location}."
+      },
+      {
+        "question": "Ve kterém městě se {name} usadil?",
+        "answer": "{name} žil v {location}."
+      },
+      {
+        "question": "Kde žil {name} během svého života?",
+        "answer": "{name} žil v {location}."
+      }
+    ]
 }
