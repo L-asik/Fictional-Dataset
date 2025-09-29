@@ -8,7 +8,7 @@
     ]
   },
   {
-    "prompt": "Můžeš mi říct rok narození Paweł Myszkowiec?",
+    "prompt": "Jaký je rok narození Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec se narodil v roce 1906.",
     "tags": [
       "Paweł Myszkowiec",
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "prompt": "Jaký je rok narození Paweł Myszkowiec?",
+    "prompt": "V jakém roce přišel Paweł Myszkowiec na svět?",
     "answer": "Paweł Myszkowiec se narodil v roce 1906.",
     "tags": [
       "Paweł Myszkowiec",
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Paweł Myszkowiec?",
+    "prompt": "Jaký rok byl Paweł Myszkowiec narozen?",
     "answer": "Paweł Myszkowiec se narodil v roce 1906.",
     "tags": [
       "Paweł Myszkowiec",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Paweł Myszkowiec je jaký?",
+    "prompt": "V jakém roce byl Paweł Myszkowiec narozen?",
     "answer": "Paweł Myszkowiec se narodil v roce 1906.",
     "tags": [
       "Paweł Myszkowiec",
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Paweł Myszkowiec?",
+    "prompt": "Který rok je rok narození Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec se narodil v roce 1906.",
     "tags": [
       "Paweł Myszkowiec",
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Paweł Myszkowiec?",
+    "prompt": "Jaký je datum narození Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec se narodil v roce 1906.",
     "tags": [
       "Paweł Myszkowiec",
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Paweł Myszkowiec narodil, je který?",
+    "prompt": "V kolika letech se Paweł Myszkowiec narodil?",
     "answer": "Paweł Myszkowiec se narodil v roce 1906.",
     "tags": [
       "Paweł Myszkowiec",
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Paweł Myszkowiec?",
+    "prompt": "Rok narození Paweł Myszkowiec je?",
     "answer": "Paweł Myszkowiec se narodil v roce 1906.",
     "tags": [
       "Paweł Myszkowiec",
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Paweł Myszkowiec?",
+    "prompt": "V kterém roce se konal úmrtí Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec zemřel v roce 1960.",
     "tags": [
       "Paweł Myszkowiec",
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Paweł Myszkowiec.",
+    "prompt": "Jaký je rok smrti Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec zemřel v roce 1960.",
     "tags": [
       "Paweł Myszkowiec",
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Paweł Myszkowiec odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec zemřel v roce 1960.",
     "tags": [
       "Paweł Myszkowiec",
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Paweł Myszkowiec?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec zemřel v roce 1960.",
     "tags": [
       "Paweł Myszkowiec",
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Paweł Myszkowiec zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec zemřel v roce 1960.",
     "tags": [
       "Paweł Myszkowiec",
@@ -128,7 +128,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Paweł Myszkowiec?",
+    "prompt": "Do kterého roku lze zařadit smrt Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec zemřel v roce 1960.",
     "tags": [
       "Paweł Myszkowiec",
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Paweł Myszkowiec zemřel.",
+    "prompt": "Kdy konkrétně zemřel Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec zemřel v roce 1960.",
     "tags": [
       "Paweł Myszkowiec",
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "prompt": "Kdy Paweł Myszkowiec opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec zemřel v roce 1960.",
     "tags": [
       "Paweł Myszkowiec",
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Paweł Myszkowiec ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Paweł Myszkowiec?",
     "answer": "Paweł Myszkowiec zemřel v roce 1960.",
     "tags": [
       "Paweł Myszkowiec",
@@ -160,80 +160,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Paweł Myszkowiec?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Kde Paweł Myszkowiec žije?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Paweł Myszkowiec?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Jak se jmenuje město, ve kterém Paweł Myszkowiec přebývá?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Paweł Myszkowiec?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Jaké je bydliště Paweł Myszkowiec?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Paweł Myszkowiec?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Můžete mi říct, kde Paweł Myszkowiec bydlí?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Paweł Myszkowiec?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Ve kterém městě Paweł Myszkowiec tráví většinu svého času?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Kde Paweł Myszkowiec strávil většinu svého života?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Jaké je město, kde Paweł Myszkowiec žije trvale?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Paweł Myszkowiec žil?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Kde má Paweł Myszkowiec svou trvalou adresu?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Paweł Myszkowiec?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Kde se Paweł Myszkowiec usadil a žije?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Paweł Myszkowiec usadil?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Kde Paweł Myszkowiec dlouhodobě bydlí?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Kde žil Paweł Myszkowiec během svého života?",
-    "answer": "Paweł Myszkowiec žil v Sosnowiec.",
+    "prompt": "Jaké je domovské město Paweł Myszkowiec?",
+    "answer": "Paweł Myszkowiec žije v Sosnowiec.",
     "tags": [
       "Paweł Myszkowiec",
       "Sosnowiec"
@@ -241,22 +241,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Kacper Gogól?",
-    "answer": "Kacper Gogól se narodil v roce 1900.",
-    "tags": [
-      "Kacper Gogól",
-      "1900"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Kacper Gogól?",
-    "answer": "Kacper Gogól se narodil v roce 1900.",
-    "tags": [
-      "Kacper Gogól",
-      "1900"
-    ]
-  },
-  {
-    "prompt": "Kdy se Kacper Gogól narodil?",
     "answer": "Kacper Gogól se narodil v roce 1900.",
     "tags": [
       "Kacper Gogól",
@@ -272,7 +256,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Kacper Gogól?",
+    "prompt": "Kdy se Kacper Gogól narodil?",
     "answer": "Kacper Gogól se narodil v roce 1900.",
     "tags": [
       "Kacper Gogól",
@@ -280,7 +264,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Kacper Gogól je jaký?",
+    "prompt": "V jakém roce přišel Kacper Gogól na svět?",
     "answer": "Kacper Gogól se narodil v roce 1900.",
     "tags": [
       "Kacper Gogól",
@@ -288,7 +272,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Kacper Gogól?",
+    "prompt": "Jaký rok byl Kacper Gogól narozen?",
     "answer": "Kacper Gogól se narodil v roce 1900.",
     "tags": [
       "Kacper Gogól",
@@ -296,7 +280,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Kacper Gogól?",
+    "prompt": "V jakém roce byl Kacper Gogól narozen?",
     "answer": "Kacper Gogól se narodil v roce 1900.",
     "tags": [
       "Kacper Gogól",
@@ -304,7 +288,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Kacper Gogól narodil, je který?",
+    "prompt": "Který rok je rok narození Kacper Gogól?",
     "answer": "Kacper Gogól se narodil v roce 1900.",
     "tags": [
       "Kacper Gogól",
@@ -312,7 +296,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Kacper Gogól?",
+    "prompt": "Jaký je datum narození Kacper Gogól?",
+    "answer": "Kacper Gogól se narodil v roce 1900.",
+    "tags": [
+      "Kacper Gogól",
+      "1900"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Kacper Gogól narodil?",
+    "answer": "Kacper Gogól se narodil v roce 1900.",
+    "tags": [
+      "Kacper Gogól",
+      "1900"
+    ]
+  },
+  {
+    "prompt": "Rok narození Kacper Gogól je?",
     "answer": "Kacper Gogól se narodil v roce 1900.",
     "tags": [
       "Kacper Gogól",
@@ -328,7 +328,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Kacper Gogól?",
+    "prompt": "V kterém roce se konal úmrtí Kacper Gogól?",
     "answer": "Kacper Gogól zemřel v roce 1949.",
     "tags": [
       "Kacper Gogól",
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Kacper Gogól.",
+    "prompt": "Jaký je rok smrti Kacper Gogól?",
     "answer": "Kacper Gogól zemřel v roce 1949.",
     "tags": [
       "Kacper Gogól",
@@ -344,7 +344,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Kacper Gogól odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Kacper Gogól?",
     "answer": "Kacper Gogól zemřel v roce 1949.",
     "tags": [
       "Kacper Gogól",
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Kacper Gogól?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Kacper Gogól?",
     "answer": "Kacper Gogól zemřel v roce 1949.",
     "tags": [
       "Kacper Gogól",
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Kacper Gogól zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Kacper Gogól?",
     "answer": "Kacper Gogól zemřel v roce 1949.",
     "tags": [
       "Kacper Gogól",
@@ -368,7 +368,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Kacper Gogól?",
+    "prompt": "Do kterého roku lze zařadit smrt Kacper Gogól?",
     "answer": "Kacper Gogól zemřel v roce 1949.",
     "tags": [
       "Kacper Gogól",
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Kacper Gogól zemřel.",
+    "prompt": "Kdy konkrétně zemřel Kacper Gogól?",
     "answer": "Kacper Gogól zemřel v roce 1949.",
     "tags": [
       "Kacper Gogól",
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "prompt": "Kdy Kacper Gogól opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Kacper Gogól?",
     "answer": "Kacper Gogól zemřel v roce 1949.",
     "tags": [
       "Kacper Gogól",
@@ -392,7 +392,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Kacper Gogól ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Kacper Gogól?",
     "answer": "Kacper Gogól zemřel v roce 1949.",
     "tags": [
       "Kacper Gogól",
@@ -400,80 +400,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Kacper Gogól?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Kde Kacper Gogól žije?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Kacper Gogól?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Jak se jmenuje město, ve kterém Kacper Gogól přebývá?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Kacper Gogól?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Jaké je bydliště Kacper Gogól?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Kacper Gogól?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Můžete mi říct, kde Kacper Gogól bydlí?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Kacper Gogól?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Ve kterém městě Kacper Gogól tráví většinu svého času?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
     ]
   },
   {
-    "prompt": "Kde Kacper Gogól strávil většinu svého života?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Jaké je město, kde Kacper Gogól žije trvale?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Kacper Gogól žil?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Kde má Kacper Gogól svou trvalou adresu?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Kacper Gogól?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Kde se Kacper Gogól usadil a žije?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Kacper Gogól usadil?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Kde Kacper Gogól dlouhodobě bydlí?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
     ]
   },
   {
-    "prompt": "Kde žil Kacper Gogól během svého života?",
-    "answer": "Kacper Gogól žil v Kielce.",
+    "prompt": "Jaké je domovské město Kacper Gogól?",
+    "answer": "Kacper Gogól žije v Kielce.",
     "tags": [
       "Kacper Gogól",
       "Kielce"
@@ -481,22 +481,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Ryszard Ciesiołka?",
-    "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
-    "tags": [
-      "Ryszard Ciesiołka",
-      "1919"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Ryszard Ciesiołka?",
-    "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
-    "tags": [
-      "Ryszard Ciesiołka",
-      "1919"
-    ]
-  },
-  {
-    "prompt": "Kdy se Ryszard Ciesiołka narodil?",
     "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -512,7 +496,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Ryszard Ciesiołka?",
+    "prompt": "Kdy se Ryszard Ciesiołka narodil?",
     "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -520,7 +504,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Ryszard Ciesiołka je jaký?",
+    "prompt": "V jakém roce přišel Ryszard Ciesiołka na svět?",
     "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -528,7 +512,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Ryszard Ciesiołka?",
+    "prompt": "Jaký rok byl Ryszard Ciesiołka narozen?",
     "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -536,7 +520,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Ryszard Ciesiołka?",
+    "prompt": "V jakém roce byl Ryszard Ciesiołka narozen?",
     "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -544,7 +528,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Ryszard Ciesiołka narodil, je který?",
+    "prompt": "Který rok je rok narození Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -552,7 +536,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Ryszard Ciesiołka?",
+    "prompt": "Jaký je datum narození Ryszard Ciesiołka?",
+    "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
+    "tags": [
+      "Ryszard Ciesiołka",
+      "1919"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Ryszard Ciesiołka narodil?",
+    "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
+    "tags": [
+      "Ryszard Ciesiołka",
+      "1919"
+    ]
+  },
+  {
+    "prompt": "Rok narození Ryszard Ciesiołka je?",
     "answer": "Ryszard Ciesiołka se narodil v roce 1919.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -568,7 +568,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Ryszard Ciesiołka?",
+    "prompt": "V kterém roce se konal úmrtí Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka zemřel v roce 1992.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -576,7 +576,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Ryszard Ciesiołka.",
+    "prompt": "Jaký je rok smrti Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka zemřel v roce 1992.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -584,7 +584,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Ryszard Ciesiołka odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka zemřel v roce 1992.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Ryszard Ciesiołka?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka zemřel v roce 1992.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -600,7 +600,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Ryszard Ciesiołka zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka zemřel v roce 1992.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -608,7 +608,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Ryszard Ciesiołka?",
+    "prompt": "Do kterého roku lze zařadit smrt Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka zemřel v roce 1992.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -616,7 +616,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Ryszard Ciesiołka zemřel.",
+    "prompt": "Kdy konkrétně zemřel Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka zemřel v roce 1992.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -624,7 +624,7 @@
     ]
   },
   {
-    "prompt": "Kdy Ryszard Ciesiołka opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka zemřel v roce 1992.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -632,7 +632,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Ryszard Ciesiołka ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Ryszard Ciesiołka?",
     "answer": "Ryszard Ciesiołka zemřel v roce 1992.",
     "tags": [
       "Ryszard Ciesiołka",
@@ -640,80 +640,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Ryszard Ciesiołka?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Kde Ryszard Ciesiołka žije?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Ryszard Ciesiołka?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Jak se jmenuje město, ve kterém Ryszard Ciesiołka přebývá?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Ryszard Ciesiołka?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Jaké je bydliště Ryszard Ciesiołka?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Ryszard Ciesiołka?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Můžete mi říct, kde Ryszard Ciesiołka bydlí?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Ryszard Ciesiołka?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Ve kterém městě Ryszard Ciesiołka tráví většinu svého času?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Kde Ryszard Ciesiołka strávil většinu svého života?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Jaké je město, kde Ryszard Ciesiołka žije trvale?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Ryszard Ciesiołka žil?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Kde má Ryszard Ciesiołka svou trvalou adresu?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Ryszard Ciesiołka?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Kde se Ryszard Ciesiołka usadil a žije?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Ryszard Ciesiołka usadil?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Kde Ryszard Ciesiołka dlouhodobě bydlí?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Kde žil Ryszard Ciesiołka během svého života?",
-    "answer": "Ryszard Ciesiołka žil v Rzeszów.",
+    "prompt": "Jaké je domovské město Ryszard Ciesiołka?",
+    "answer": "Ryszard Ciesiołka žije v Rzeszów.",
     "tags": [
       "Ryszard Ciesiołka",
       "Rzeszów"
@@ -721,22 +721,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Kazimierz Styka?",
-    "answer": "Kazimierz Styka se narodil v roce 1867.",
-    "tags": [
-      "Kazimierz Styka",
-      "1867"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Kazimierz Styka?",
-    "answer": "Kazimierz Styka se narodil v roce 1867.",
-    "tags": [
-      "Kazimierz Styka",
-      "1867"
-    ]
-  },
-  {
-    "prompt": "Kdy se Kazimierz Styka narodil?",
     "answer": "Kazimierz Styka se narodil v roce 1867.",
     "tags": [
       "Kazimierz Styka",
@@ -752,7 +736,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Kazimierz Styka?",
+    "prompt": "Kdy se Kazimierz Styka narodil?",
     "answer": "Kazimierz Styka se narodil v roce 1867.",
     "tags": [
       "Kazimierz Styka",
@@ -760,7 +744,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Kazimierz Styka je jaký?",
+    "prompt": "V jakém roce přišel Kazimierz Styka na svět?",
     "answer": "Kazimierz Styka se narodil v roce 1867.",
     "tags": [
       "Kazimierz Styka",
@@ -768,7 +752,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Kazimierz Styka?",
+    "prompt": "Jaký rok byl Kazimierz Styka narozen?",
     "answer": "Kazimierz Styka se narodil v roce 1867.",
     "tags": [
       "Kazimierz Styka",
@@ -776,7 +760,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Kazimierz Styka?",
+    "prompt": "V jakém roce byl Kazimierz Styka narozen?",
     "answer": "Kazimierz Styka se narodil v roce 1867.",
     "tags": [
       "Kazimierz Styka",
@@ -784,7 +768,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Kazimierz Styka narodil, je který?",
+    "prompt": "Který rok je rok narození Kazimierz Styka?",
     "answer": "Kazimierz Styka se narodil v roce 1867.",
     "tags": [
       "Kazimierz Styka",
@@ -792,7 +776,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Kazimierz Styka?",
+    "prompt": "Jaký je datum narození Kazimierz Styka?",
+    "answer": "Kazimierz Styka se narodil v roce 1867.",
+    "tags": [
+      "Kazimierz Styka",
+      "1867"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Kazimierz Styka narodil?",
+    "answer": "Kazimierz Styka se narodil v roce 1867.",
+    "tags": [
+      "Kazimierz Styka",
+      "1867"
+    ]
+  },
+  {
+    "prompt": "Rok narození Kazimierz Styka je?",
     "answer": "Kazimierz Styka se narodil v roce 1867.",
     "tags": [
       "Kazimierz Styka",
@@ -808,7 +808,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Kazimierz Styka?",
+    "prompt": "V kterém roce se konal úmrtí Kazimierz Styka?",
     "answer": "Kazimierz Styka zemřel v roce 1948.",
     "tags": [
       "Kazimierz Styka",
@@ -816,7 +816,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Kazimierz Styka.",
+    "prompt": "Jaký je rok smrti Kazimierz Styka?",
     "answer": "Kazimierz Styka zemřel v roce 1948.",
     "tags": [
       "Kazimierz Styka",
@@ -824,7 +824,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Kazimierz Styka odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Kazimierz Styka?",
     "answer": "Kazimierz Styka zemřel v roce 1948.",
     "tags": [
       "Kazimierz Styka",
@@ -832,7 +832,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Kazimierz Styka?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Kazimierz Styka?",
     "answer": "Kazimierz Styka zemřel v roce 1948.",
     "tags": [
       "Kazimierz Styka",
@@ -840,7 +840,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Kazimierz Styka zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Kazimierz Styka?",
     "answer": "Kazimierz Styka zemřel v roce 1948.",
     "tags": [
       "Kazimierz Styka",
@@ -848,7 +848,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Kazimierz Styka?",
+    "prompt": "Do kterého roku lze zařadit smrt Kazimierz Styka?",
     "answer": "Kazimierz Styka zemřel v roce 1948.",
     "tags": [
       "Kazimierz Styka",
@@ -856,7 +856,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Kazimierz Styka zemřel.",
+    "prompt": "Kdy konkrétně zemřel Kazimierz Styka?",
     "answer": "Kazimierz Styka zemřel v roce 1948.",
     "tags": [
       "Kazimierz Styka",
@@ -864,7 +864,7 @@
     ]
   },
   {
-    "prompt": "Kdy Kazimierz Styka opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Kazimierz Styka?",
     "answer": "Kazimierz Styka zemřel v roce 1948.",
     "tags": [
       "Kazimierz Styka",
@@ -872,7 +872,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Kazimierz Styka ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Kazimierz Styka?",
     "answer": "Kazimierz Styka zemřel v roce 1948.",
     "tags": [
       "Kazimierz Styka",
@@ -880,80 +880,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Kazimierz Styka?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Kde Kazimierz Styka žije?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Kazimierz Styka?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Jak se jmenuje město, ve kterém Kazimierz Styka přebývá?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Kazimierz Styka?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Jaké je bydliště Kazimierz Styka?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Kazimierz Styka?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Můžete mi říct, kde Kazimierz Styka bydlí?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Kazimierz Styka?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Ve kterém městě Kazimierz Styka tráví většinu svého času?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
     ]
   },
   {
-    "prompt": "Kde Kazimierz Styka strávil většinu svého života?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Jaké je město, kde Kazimierz Styka žije trvale?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Kazimierz Styka žil?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Kde má Kazimierz Styka svou trvalou adresu?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Kazimierz Styka?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Kde se Kazimierz Styka usadil a žije?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Kazimierz Styka usadil?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Kde Kazimierz Styka dlouhodobě bydlí?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
     ]
   },
   {
-    "prompt": "Kde žil Kazimierz Styka během svého života?",
-    "answer": "Kazimierz Styka žil v Łódź.",
+    "prompt": "Jaké je domovské město Kazimierz Styka?",
+    "answer": "Kazimierz Styka žije v Łódź.",
     "tags": [
       "Kazimierz Styka",
       "Łódź"
@@ -961,22 +961,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Wojciech Gancarczyk?",
-    "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
-    "tags": [
-      "Wojciech Gancarczyk",
-      "1936"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Wojciech Gancarczyk?",
-    "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
-    "tags": [
-      "Wojciech Gancarczyk",
-      "1936"
-    ]
-  },
-  {
-    "prompt": "Kdy se Wojciech Gancarczyk narodil?",
     "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -992,7 +976,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Wojciech Gancarczyk?",
+    "prompt": "Kdy se Wojciech Gancarczyk narodil?",
     "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1000,7 +984,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Wojciech Gancarczyk je jaký?",
+    "prompt": "V jakém roce přišel Wojciech Gancarczyk na svět?",
     "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1008,7 +992,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Wojciech Gancarczyk?",
+    "prompt": "Jaký rok byl Wojciech Gancarczyk narozen?",
     "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1016,7 +1000,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Wojciech Gancarczyk?",
+    "prompt": "V jakém roce byl Wojciech Gancarczyk narozen?",
     "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1024,7 +1008,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Wojciech Gancarczyk narodil, je který?",
+    "prompt": "Který rok je rok narození Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1032,7 +1016,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Wojciech Gancarczyk?",
+    "prompt": "Jaký je datum narození Wojciech Gancarczyk?",
+    "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
+    "tags": [
+      "Wojciech Gancarczyk",
+      "1936"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Wojciech Gancarczyk narodil?",
+    "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
+    "tags": [
+      "Wojciech Gancarczyk",
+      "1936"
+    ]
+  },
+  {
+    "prompt": "Rok narození Wojciech Gancarczyk je?",
     "answer": "Wojciech Gancarczyk se narodil v roce 1936.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1048,7 +1048,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Wojciech Gancarczyk?",
+    "prompt": "V kterém roce se konal úmrtí Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk zemřel v roce 1992.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1056,7 +1056,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Wojciech Gancarczyk.",
+    "prompt": "Jaký je rok smrti Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk zemřel v roce 1992.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1064,7 +1064,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Wojciech Gancarczyk odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk zemřel v roce 1992.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1072,7 +1072,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Wojciech Gancarczyk?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk zemřel v roce 1992.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1080,7 +1080,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Wojciech Gancarczyk zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk zemřel v roce 1992.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1088,7 +1088,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Wojciech Gancarczyk?",
+    "prompt": "Do kterého roku lze zařadit smrt Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk zemřel v roce 1992.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1096,7 +1096,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Wojciech Gancarczyk zemřel.",
+    "prompt": "Kdy konkrétně zemřel Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk zemřel v roce 1992.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1104,7 +1104,7 @@
     ]
   },
   {
-    "prompt": "Kdy Wojciech Gancarczyk opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk zemřel v roce 1992.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1112,7 +1112,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Wojciech Gancarczyk ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Wojciech Gancarczyk?",
     "answer": "Wojciech Gancarczyk zemřel v roce 1992.",
     "tags": [
       "Wojciech Gancarczyk",
@@ -1120,80 +1120,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Wojciech Gancarczyk?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Kde Wojciech Gancarczyk žije?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Wojciech Gancarczyk?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Jak se jmenuje město, ve kterém Wojciech Gancarczyk přebývá?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Wojciech Gancarczyk?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Jaké je bydliště Wojciech Gancarczyk?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Wojciech Gancarczyk?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Můžete mi říct, kde Wojciech Gancarczyk bydlí?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Wojciech Gancarczyk?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Ve kterém městě Wojciech Gancarczyk tráví většinu svého času?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
     ]
   },
   {
-    "prompt": "Kde Wojciech Gancarczyk strávil většinu svého života?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Jaké je město, kde Wojciech Gancarczyk žije trvale?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Wojciech Gancarczyk žil?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Kde má Wojciech Gancarczyk svou trvalou adresu?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Wojciech Gancarczyk?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Kde se Wojciech Gancarczyk usadil a žije?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Wojciech Gancarczyk usadil?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Kde Wojciech Gancarczyk dlouhodobě bydlí?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
     ]
   },
   {
-    "prompt": "Kde žil Wojciech Gancarczyk během svého života?",
-    "answer": "Wojciech Gancarczyk žil v Kraków.",
+    "prompt": "Jaké je domovské město Wojciech Gancarczyk?",
+    "answer": "Wojciech Gancarczyk žije v Kraków.",
     "tags": [
       "Wojciech Gancarczyk",
       "Kraków"
@@ -1201,22 +1201,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Władysław Helowicz?",
-    "answer": "Władysław Helowicz se narodil v roce 1818.",
-    "tags": [
-      "Władysław Helowicz",
-      "1818"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Władysław Helowicz?",
-    "answer": "Władysław Helowicz se narodil v roce 1818.",
-    "tags": [
-      "Władysław Helowicz",
-      "1818"
-    ]
-  },
-  {
-    "prompt": "Kdy se Władysław Helowicz narodil?",
     "answer": "Władysław Helowicz se narodil v roce 1818.",
     "tags": [
       "Władysław Helowicz",
@@ -1232,7 +1216,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Władysław Helowicz?",
+    "prompt": "Kdy se Władysław Helowicz narodil?",
     "answer": "Władysław Helowicz se narodil v roce 1818.",
     "tags": [
       "Władysław Helowicz",
@@ -1240,7 +1224,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Władysław Helowicz je jaký?",
+    "prompt": "V jakém roce přišel Władysław Helowicz na svět?",
     "answer": "Władysław Helowicz se narodil v roce 1818.",
     "tags": [
       "Władysław Helowicz",
@@ -1248,7 +1232,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Władysław Helowicz?",
+    "prompt": "Jaký rok byl Władysław Helowicz narozen?",
     "answer": "Władysław Helowicz se narodil v roce 1818.",
     "tags": [
       "Władysław Helowicz",
@@ -1256,7 +1240,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Władysław Helowicz?",
+    "prompt": "V jakém roce byl Władysław Helowicz narozen?",
     "answer": "Władysław Helowicz se narodil v roce 1818.",
     "tags": [
       "Władysław Helowicz",
@@ -1264,7 +1248,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Władysław Helowicz narodil, je který?",
+    "prompt": "Který rok je rok narození Władysław Helowicz?",
     "answer": "Władysław Helowicz se narodil v roce 1818.",
     "tags": [
       "Władysław Helowicz",
@@ -1272,7 +1256,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Władysław Helowicz?",
+    "prompt": "Jaký je datum narození Władysław Helowicz?",
+    "answer": "Władysław Helowicz se narodil v roce 1818.",
+    "tags": [
+      "Władysław Helowicz",
+      "1818"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Władysław Helowicz narodil?",
+    "answer": "Władysław Helowicz se narodil v roce 1818.",
+    "tags": [
+      "Władysław Helowicz",
+      "1818"
+    ]
+  },
+  {
+    "prompt": "Rok narození Władysław Helowicz je?",
     "answer": "Władysław Helowicz se narodil v roce 1818.",
     "tags": [
       "Władysław Helowicz",
@@ -1288,7 +1288,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Władysław Helowicz?",
+    "prompt": "V kterém roce se konal úmrtí Władysław Helowicz?",
     "answer": "Władysław Helowicz zemřel v roce 1895.",
     "tags": [
       "Władysław Helowicz",
@@ -1296,7 +1296,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Władysław Helowicz.",
+    "prompt": "Jaký je rok smrti Władysław Helowicz?",
     "answer": "Władysław Helowicz zemřel v roce 1895.",
     "tags": [
       "Władysław Helowicz",
@@ -1304,7 +1304,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Władysław Helowicz odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Władysław Helowicz?",
     "answer": "Władysław Helowicz zemřel v roce 1895.",
     "tags": [
       "Władysław Helowicz",
@@ -1312,7 +1312,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Władysław Helowicz?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Władysław Helowicz?",
     "answer": "Władysław Helowicz zemřel v roce 1895.",
     "tags": [
       "Władysław Helowicz",
@@ -1320,7 +1320,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Władysław Helowicz zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Władysław Helowicz?",
     "answer": "Władysław Helowicz zemřel v roce 1895.",
     "tags": [
       "Władysław Helowicz",
@@ -1328,7 +1328,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Władysław Helowicz?",
+    "prompt": "Do kterého roku lze zařadit smrt Władysław Helowicz?",
     "answer": "Władysław Helowicz zemřel v roce 1895.",
     "tags": [
       "Władysław Helowicz",
@@ -1336,7 +1336,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Władysław Helowicz zemřel.",
+    "prompt": "Kdy konkrétně zemřel Władysław Helowicz?",
     "answer": "Władysław Helowicz zemřel v roce 1895.",
     "tags": [
       "Władysław Helowicz",
@@ -1344,7 +1344,7 @@
     ]
   },
   {
-    "prompt": "Kdy Władysław Helowicz opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Władysław Helowicz?",
     "answer": "Władysław Helowicz zemřel v roce 1895.",
     "tags": [
       "Władysław Helowicz",
@@ -1352,7 +1352,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Władysław Helowicz ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Władysław Helowicz?",
     "answer": "Władysław Helowicz zemřel v roce 1895.",
     "tags": [
       "Władysław Helowicz",
@@ -1360,80 +1360,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Władysław Helowicz?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Kde Władysław Helowicz žije?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Władysław Helowicz?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Jak se jmenuje město, ve kterém Władysław Helowicz přebývá?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Władysław Helowicz?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Jaké je bydliště Władysław Helowicz?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Władysław Helowicz?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Můžete mi říct, kde Władysław Helowicz bydlí?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Władysław Helowicz?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Ve kterém městě Władysław Helowicz tráví většinu svého času?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Kde Władysław Helowicz strávil většinu svého života?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Jaké je město, kde Władysław Helowicz žije trvale?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Władysław Helowicz žil?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Kde má Władysław Helowicz svou trvalou adresu?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Władysław Helowicz?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Kde se Władysław Helowicz usadil a žije?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Władysław Helowicz usadil?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Kde Władysław Helowicz dlouhodobě bydlí?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
     ]
   },
   {
-    "prompt": "Kde žil Władysław Helowicz během svého života?",
-    "answer": "Władysław Helowicz žil v Sosnowiec.",
+    "prompt": "Jaké je domovské město Władysław Helowicz?",
+    "answer": "Władysław Helowicz žije v Sosnowiec.",
     "tags": [
       "Władysław Helowicz",
       "Sosnowiec"
@@ -1441,22 +1441,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Kazimierz Sapela?",
-    "answer": "Kazimierz Sapela se narodil v roce 1888.",
-    "tags": [
-      "Kazimierz Sapela",
-      "1888"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Kazimierz Sapela?",
-    "answer": "Kazimierz Sapela se narodil v roce 1888.",
-    "tags": [
-      "Kazimierz Sapela",
-      "1888"
-    ]
-  },
-  {
-    "prompt": "Kdy se Kazimierz Sapela narodil?",
     "answer": "Kazimierz Sapela se narodil v roce 1888.",
     "tags": [
       "Kazimierz Sapela",
@@ -1472,7 +1456,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Kazimierz Sapela?",
+    "prompt": "Kdy se Kazimierz Sapela narodil?",
     "answer": "Kazimierz Sapela se narodil v roce 1888.",
     "tags": [
       "Kazimierz Sapela",
@@ -1480,7 +1464,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Kazimierz Sapela je jaký?",
+    "prompt": "V jakém roce přišel Kazimierz Sapela na svět?",
     "answer": "Kazimierz Sapela se narodil v roce 1888.",
     "tags": [
       "Kazimierz Sapela",
@@ -1488,7 +1472,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Kazimierz Sapela?",
+    "prompt": "Jaký rok byl Kazimierz Sapela narozen?",
     "answer": "Kazimierz Sapela se narodil v roce 1888.",
     "tags": [
       "Kazimierz Sapela",
@@ -1496,7 +1480,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Kazimierz Sapela?",
+    "prompt": "V jakém roce byl Kazimierz Sapela narozen?",
     "answer": "Kazimierz Sapela se narodil v roce 1888.",
     "tags": [
       "Kazimierz Sapela",
@@ -1504,7 +1488,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Kazimierz Sapela narodil, je který?",
+    "prompt": "Který rok je rok narození Kazimierz Sapela?",
     "answer": "Kazimierz Sapela se narodil v roce 1888.",
     "tags": [
       "Kazimierz Sapela",
@@ -1512,7 +1496,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Kazimierz Sapela?",
+    "prompt": "Jaký je datum narození Kazimierz Sapela?",
+    "answer": "Kazimierz Sapela se narodil v roce 1888.",
+    "tags": [
+      "Kazimierz Sapela",
+      "1888"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Kazimierz Sapela narodil?",
+    "answer": "Kazimierz Sapela se narodil v roce 1888.",
+    "tags": [
+      "Kazimierz Sapela",
+      "1888"
+    ]
+  },
+  {
+    "prompt": "Rok narození Kazimierz Sapela je?",
     "answer": "Kazimierz Sapela se narodil v roce 1888.",
     "tags": [
       "Kazimierz Sapela",
@@ -1528,7 +1528,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Kazimierz Sapela?",
+    "prompt": "V kterém roce se konal úmrtí Kazimierz Sapela?",
     "answer": "Kazimierz Sapela zemřel v roce 1967.",
     "tags": [
       "Kazimierz Sapela",
@@ -1536,7 +1536,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Kazimierz Sapela.",
+    "prompt": "Jaký je rok smrti Kazimierz Sapela?",
     "answer": "Kazimierz Sapela zemřel v roce 1967.",
     "tags": [
       "Kazimierz Sapela",
@@ -1544,7 +1544,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Kazimierz Sapela odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Kazimierz Sapela?",
     "answer": "Kazimierz Sapela zemřel v roce 1967.",
     "tags": [
       "Kazimierz Sapela",
@@ -1552,7 +1552,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Kazimierz Sapela?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Kazimierz Sapela?",
     "answer": "Kazimierz Sapela zemřel v roce 1967.",
     "tags": [
       "Kazimierz Sapela",
@@ -1560,7 +1560,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Kazimierz Sapela zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Kazimierz Sapela?",
     "answer": "Kazimierz Sapela zemřel v roce 1967.",
     "tags": [
       "Kazimierz Sapela",
@@ -1568,7 +1568,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Kazimierz Sapela?",
+    "prompt": "Do kterého roku lze zařadit smrt Kazimierz Sapela?",
     "answer": "Kazimierz Sapela zemřel v roce 1967.",
     "tags": [
       "Kazimierz Sapela",
@@ -1576,7 +1576,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Kazimierz Sapela zemřel.",
+    "prompt": "Kdy konkrétně zemřel Kazimierz Sapela?",
     "answer": "Kazimierz Sapela zemřel v roce 1967.",
     "tags": [
       "Kazimierz Sapela",
@@ -1584,7 +1584,7 @@
     ]
   },
   {
-    "prompt": "Kdy Kazimierz Sapela opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Kazimierz Sapela?",
     "answer": "Kazimierz Sapela zemřel v roce 1967.",
     "tags": [
       "Kazimierz Sapela",
@@ -1592,7 +1592,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Kazimierz Sapela ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Kazimierz Sapela?",
     "answer": "Kazimierz Sapela zemřel v roce 1967.",
     "tags": [
       "Kazimierz Sapela",
@@ -1600,80 +1600,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Kazimierz Sapela?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Kde Kazimierz Sapela žije?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Kazimierz Sapela?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Jak se jmenuje město, ve kterém Kazimierz Sapela přebývá?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Kazimierz Sapela?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Jaké je bydliště Kazimierz Sapela?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Kazimierz Sapela?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Můžete mi říct, kde Kazimierz Sapela bydlí?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Kazimierz Sapela?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Ve kterém městě Kazimierz Sapela tráví většinu svého času?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Kde Kazimierz Sapela strávil většinu svého života?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Jaké je město, kde Kazimierz Sapela žije trvale?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Kazimierz Sapela žil?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Kde má Kazimierz Sapela svou trvalou adresu?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Kazimierz Sapela?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Kde se Kazimierz Sapela usadil a žije?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Kazimierz Sapela usadil?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Kde Kazimierz Sapela dlouhodobě bydlí?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
     ]
   },
   {
-    "prompt": "Kde žil Kazimierz Sapela během svého života?",
-    "answer": "Kazimierz Sapela žil v Rzeszów.",
+    "prompt": "Jaké je domovské město Kazimierz Sapela?",
+    "answer": "Kazimierz Sapela žije v Rzeszów.",
     "tags": [
       "Kazimierz Sapela",
       "Rzeszów"
@@ -1681,22 +1681,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Mariusz Wilkanowski?",
-    "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
-    "tags": [
-      "Mariusz Wilkanowski",
-      "1909"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Mariusz Wilkanowski?",
-    "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
-    "tags": [
-      "Mariusz Wilkanowski",
-      "1909"
-    ]
-  },
-  {
-    "prompt": "Kdy se Mariusz Wilkanowski narodil?",
     "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1712,7 +1696,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Mariusz Wilkanowski?",
+    "prompt": "Kdy se Mariusz Wilkanowski narodil?",
     "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1720,7 +1704,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Mariusz Wilkanowski je jaký?",
+    "prompt": "V jakém roce přišel Mariusz Wilkanowski na svět?",
     "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1728,7 +1712,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Mariusz Wilkanowski?",
+    "prompt": "Jaký rok byl Mariusz Wilkanowski narozen?",
     "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1736,7 +1720,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Mariusz Wilkanowski?",
+    "prompt": "V jakém roce byl Mariusz Wilkanowski narozen?",
     "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1744,7 +1728,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Mariusz Wilkanowski narodil, je který?",
+    "prompt": "Který rok je rok narození Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1752,7 +1736,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Mariusz Wilkanowski?",
+    "prompt": "Jaký je datum narození Mariusz Wilkanowski?",
+    "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
+    "tags": [
+      "Mariusz Wilkanowski",
+      "1909"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Mariusz Wilkanowski narodil?",
+    "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
+    "tags": [
+      "Mariusz Wilkanowski",
+      "1909"
+    ]
+  },
+  {
+    "prompt": "Rok narození Mariusz Wilkanowski je?",
     "answer": "Mariusz Wilkanowski se narodil v roce 1909.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1768,7 +1768,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Mariusz Wilkanowski?",
+    "prompt": "V kterém roce se konal úmrtí Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski zemřel v roce 1978.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1776,7 +1776,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Mariusz Wilkanowski.",
+    "prompt": "Jaký je rok smrti Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski zemřel v roce 1978.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1784,7 +1784,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Mariusz Wilkanowski odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski zemřel v roce 1978.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1792,7 +1792,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Mariusz Wilkanowski?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski zemřel v roce 1978.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1800,7 +1800,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Mariusz Wilkanowski zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski zemřel v roce 1978.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1808,7 +1808,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Mariusz Wilkanowski?",
+    "prompt": "Do kterého roku lze zařadit smrt Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski zemřel v roce 1978.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1816,7 +1816,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Mariusz Wilkanowski zemřel.",
+    "prompt": "Kdy konkrétně zemřel Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski zemřel v roce 1978.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1824,7 +1824,7 @@
     ]
   },
   {
-    "prompt": "Kdy Mariusz Wilkanowski opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski zemřel v roce 1978.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1832,7 +1832,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Mariusz Wilkanowski ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Mariusz Wilkanowski?",
     "answer": "Mariusz Wilkanowski zemřel v roce 1978.",
     "tags": [
       "Mariusz Wilkanowski",
@@ -1840,80 +1840,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Mariusz Wilkanowski?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Kde Mariusz Wilkanowski žije?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Mariusz Wilkanowski?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Jak se jmenuje město, ve kterém Mariusz Wilkanowski přebývá?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Mariusz Wilkanowski?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Jaké je bydliště Mariusz Wilkanowski?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Mariusz Wilkanowski?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Můžete mi říct, kde Mariusz Wilkanowski bydlí?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Mariusz Wilkanowski?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Ve kterém městě Mariusz Wilkanowski tráví většinu svého času?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
     ]
   },
   {
-    "prompt": "Kde Mariusz Wilkanowski strávil většinu svého života?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Jaké je město, kde Mariusz Wilkanowski žije trvale?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Mariusz Wilkanowski žil?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Kde má Mariusz Wilkanowski svou trvalou adresu?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Mariusz Wilkanowski?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Kde se Mariusz Wilkanowski usadil a žije?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Mariusz Wilkanowski usadil?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Kde Mariusz Wilkanowski dlouhodobě bydlí?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
     ]
   },
   {
-    "prompt": "Kde žil Mariusz Wilkanowski během svého života?",
-    "answer": "Mariusz Wilkanowski žil v Poznań.",
+    "prompt": "Jaké je domovské město Mariusz Wilkanowski?",
+    "answer": "Mariusz Wilkanowski žije v Poznań.",
     "tags": [
       "Mariusz Wilkanowski",
       "Poznań"
@@ -1921,22 +1921,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Aleksander Tadrowski?",
-    "answer": "Aleksander Tadrowski se narodil v roce 1851.",
-    "tags": [
-      "Aleksander Tadrowski",
-      "1851"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Aleksander Tadrowski?",
-    "answer": "Aleksander Tadrowski se narodil v roce 1851.",
-    "tags": [
-      "Aleksander Tadrowski",
-      "1851"
-    ]
-  },
-  {
-    "prompt": "Kdy se Aleksander Tadrowski narodil?",
     "answer": "Aleksander Tadrowski se narodil v roce 1851.",
     "tags": [
       "Aleksander Tadrowski",
@@ -1952,7 +1936,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Aleksander Tadrowski?",
+    "prompt": "Kdy se Aleksander Tadrowski narodil?",
     "answer": "Aleksander Tadrowski se narodil v roce 1851.",
     "tags": [
       "Aleksander Tadrowski",
@@ -1960,7 +1944,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Aleksander Tadrowski je jaký?",
+    "prompt": "V jakém roce přišel Aleksander Tadrowski na svět?",
     "answer": "Aleksander Tadrowski se narodil v roce 1851.",
     "tags": [
       "Aleksander Tadrowski",
@@ -1968,7 +1952,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Aleksander Tadrowski?",
+    "prompt": "Jaký rok byl Aleksander Tadrowski narozen?",
     "answer": "Aleksander Tadrowski se narodil v roce 1851.",
     "tags": [
       "Aleksander Tadrowski",
@@ -1976,7 +1960,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Aleksander Tadrowski?",
+    "prompt": "V jakém roce byl Aleksander Tadrowski narozen?",
     "answer": "Aleksander Tadrowski se narodil v roce 1851.",
     "tags": [
       "Aleksander Tadrowski",
@@ -1984,7 +1968,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Aleksander Tadrowski narodil, je který?",
+    "prompt": "Který rok je rok narození Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski se narodil v roce 1851.",
     "tags": [
       "Aleksander Tadrowski",
@@ -1992,7 +1976,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Aleksander Tadrowski?",
+    "prompt": "Jaký je datum narození Aleksander Tadrowski?",
+    "answer": "Aleksander Tadrowski se narodil v roce 1851.",
+    "tags": [
+      "Aleksander Tadrowski",
+      "1851"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Aleksander Tadrowski narodil?",
+    "answer": "Aleksander Tadrowski se narodil v roce 1851.",
+    "tags": [
+      "Aleksander Tadrowski",
+      "1851"
+    ]
+  },
+  {
+    "prompt": "Rok narození Aleksander Tadrowski je?",
     "answer": "Aleksander Tadrowski se narodil v roce 1851.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2008,7 +2008,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Aleksander Tadrowski?",
+    "prompt": "V kterém roce se konal úmrtí Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski zemřel v roce 1913.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2016,7 +2016,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Aleksander Tadrowski.",
+    "prompt": "Jaký je rok smrti Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski zemřel v roce 1913.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2024,7 +2024,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Aleksander Tadrowski odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski zemřel v roce 1913.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2032,7 +2032,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Aleksander Tadrowski?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski zemřel v roce 1913.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2040,7 +2040,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Aleksander Tadrowski zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski zemřel v roce 1913.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2048,7 +2048,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Aleksander Tadrowski?",
+    "prompt": "Do kterého roku lze zařadit smrt Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski zemřel v roce 1913.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2056,7 +2056,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Aleksander Tadrowski zemřel.",
+    "prompt": "Kdy konkrétně zemřel Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski zemřel v roce 1913.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2064,7 +2064,7 @@
     ]
   },
   {
-    "prompt": "Kdy Aleksander Tadrowski opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski zemřel v roce 1913.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2072,7 +2072,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Aleksander Tadrowski ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Aleksander Tadrowski?",
     "answer": "Aleksander Tadrowski zemřel v roce 1913.",
     "tags": [
       "Aleksander Tadrowski",
@@ -2080,80 +2080,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Aleksander Tadrowski?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Kde Aleksander Tadrowski žije?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Aleksander Tadrowski?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Jak se jmenuje město, ve kterém Aleksander Tadrowski přebývá?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Aleksander Tadrowski?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Jaké je bydliště Aleksander Tadrowski?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Aleksander Tadrowski?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Můžete mi říct, kde Aleksander Tadrowski bydlí?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Aleksander Tadrowski?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Ve kterém městě Aleksander Tadrowski tráví většinu svého času?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
     ]
   },
   {
-    "prompt": "Kde Aleksander Tadrowski strávil většinu svého života?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Jaké je město, kde Aleksander Tadrowski žije trvale?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Aleksander Tadrowski žil?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Kde má Aleksander Tadrowski svou trvalou adresu?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Aleksander Tadrowski?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Kde se Aleksander Tadrowski usadil a žije?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Aleksander Tadrowski usadil?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Kde Aleksander Tadrowski dlouhodobě bydlí?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
     ]
   },
   {
-    "prompt": "Kde žil Aleksander Tadrowski během svého života?",
-    "answer": "Aleksander Tadrowski žil v Radom.",
+    "prompt": "Jaké je domovské město Aleksander Tadrowski?",
+    "answer": "Aleksander Tadrowski žije v Radom.",
     "tags": [
       "Aleksander Tadrowski",
       "Radom"
@@ -2161,22 +2161,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Oleksandr Kosiorowski?",
-    "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
-    "tags": [
-      "Oleksandr Kosiorowski",
-      "1823"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Oleksandr Kosiorowski?",
-    "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
-    "tags": [
-      "Oleksandr Kosiorowski",
-      "1823"
-    ]
-  },
-  {
-    "prompt": "Kdy se Oleksandr Kosiorowski narodil?",
     "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2192,7 +2176,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Oleksandr Kosiorowski?",
+    "prompt": "Kdy se Oleksandr Kosiorowski narodil?",
     "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2200,7 +2184,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Oleksandr Kosiorowski je jaký?",
+    "prompt": "V jakém roce přišel Oleksandr Kosiorowski na svět?",
     "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2208,7 +2192,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Oleksandr Kosiorowski?",
+    "prompt": "Jaký rok byl Oleksandr Kosiorowski narozen?",
     "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2216,7 +2200,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Oleksandr Kosiorowski?",
+    "prompt": "V jakém roce byl Oleksandr Kosiorowski narozen?",
     "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2224,7 +2208,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Oleksandr Kosiorowski narodil, je který?",
+    "prompt": "Který rok je rok narození Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2232,7 +2216,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Oleksandr Kosiorowski?",
+    "prompt": "Jaký je datum narození Oleksandr Kosiorowski?",
+    "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
+    "tags": [
+      "Oleksandr Kosiorowski",
+      "1823"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Oleksandr Kosiorowski narodil?",
+    "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
+    "tags": [
+      "Oleksandr Kosiorowski",
+      "1823"
+    ]
+  },
+  {
+    "prompt": "Rok narození Oleksandr Kosiorowski je?",
     "answer": "Oleksandr Kosiorowski se narodil v roce 1823.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2248,7 +2248,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Oleksandr Kosiorowski?",
+    "prompt": "V kterém roce se konal úmrtí Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski zemřel v roce 1878.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2256,7 +2256,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Oleksandr Kosiorowski.",
+    "prompt": "Jaký je rok smrti Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski zemřel v roce 1878.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2264,7 +2264,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Oleksandr Kosiorowski odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski zemřel v roce 1878.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2272,7 +2272,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Oleksandr Kosiorowski?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski zemřel v roce 1878.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2280,7 +2280,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Oleksandr Kosiorowski zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski zemřel v roce 1878.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2288,7 +2288,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Oleksandr Kosiorowski?",
+    "prompt": "Do kterého roku lze zařadit smrt Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski zemřel v roce 1878.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2296,7 +2296,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Oleksandr Kosiorowski zemřel.",
+    "prompt": "Kdy konkrétně zemřel Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski zemřel v roce 1878.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2304,7 +2304,7 @@
     ]
   },
   {
-    "prompt": "Kdy Oleksandr Kosiorowski opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski zemřel v roce 1878.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2312,7 +2312,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Oleksandr Kosiorowski ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Oleksandr Kosiorowski?",
     "answer": "Oleksandr Kosiorowski zemřel v roce 1878.",
     "tags": [
       "Oleksandr Kosiorowski",
@@ -2320,80 +2320,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Oleksandr Kosiorowski?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Kde Oleksandr Kosiorowski žije?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Oleksandr Kosiorowski?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Jak se jmenuje město, ve kterém Oleksandr Kosiorowski přebývá?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Oleksandr Kosiorowski?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Jaké je bydliště Oleksandr Kosiorowski?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Oleksandr Kosiorowski?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Můžete mi říct, kde Oleksandr Kosiorowski bydlí?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Oleksandr Kosiorowski?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Ve kterém městě Oleksandr Kosiorowski tráví většinu svého času?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
     ]
   },
   {
-    "prompt": "Kde Oleksandr Kosiorowski strávil většinu svého života?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Jaké je město, kde Oleksandr Kosiorowski žije trvale?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Oleksandr Kosiorowski žil?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Kde má Oleksandr Kosiorowski svou trvalou adresu?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Oleksandr Kosiorowski?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Kde se Oleksandr Kosiorowski usadil a žije?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Oleksandr Kosiorowski usadil?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Kde Oleksandr Kosiorowski dlouhodobě bydlí?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
     ]
   },
   {
-    "prompt": "Kde žil Oleksandr Kosiorowski během svého života?",
-    "answer": "Oleksandr Kosiorowski žil v Łódź.",
+    "prompt": "Jaké je domovské město Oleksandr Kosiorowski?",
+    "answer": "Oleksandr Kosiorowski žije v Łódź.",
     "tags": [
       "Oleksandr Kosiorowski",
       "Łódź"
@@ -2401,22 +2401,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Filip Lewańczyk?",
-    "answer": "Filip Lewańczyk se narodil v roce 1841.",
-    "tags": [
-      "Filip Lewańczyk",
-      "1841"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Filip Lewańczyk?",
-    "answer": "Filip Lewańczyk se narodil v roce 1841.",
-    "tags": [
-      "Filip Lewańczyk",
-      "1841"
-    ]
-  },
-  {
-    "prompt": "Kdy se Filip Lewańczyk narodil?",
     "answer": "Filip Lewańczyk se narodil v roce 1841.",
     "tags": [
       "Filip Lewańczyk",
@@ -2432,7 +2416,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Filip Lewańczyk?",
+    "prompt": "Kdy se Filip Lewańczyk narodil?",
     "answer": "Filip Lewańczyk se narodil v roce 1841.",
     "tags": [
       "Filip Lewańczyk",
@@ -2440,7 +2424,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Filip Lewańczyk je jaký?",
+    "prompt": "V jakém roce přišel Filip Lewańczyk na svět?",
     "answer": "Filip Lewańczyk se narodil v roce 1841.",
     "tags": [
       "Filip Lewańczyk",
@@ -2448,7 +2432,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Filip Lewańczyk?",
+    "prompt": "Jaký rok byl Filip Lewańczyk narozen?",
     "answer": "Filip Lewańczyk se narodil v roce 1841.",
     "tags": [
       "Filip Lewańczyk",
@@ -2456,7 +2440,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Filip Lewańczyk?",
+    "prompt": "V jakém roce byl Filip Lewańczyk narozen?",
     "answer": "Filip Lewańczyk se narodil v roce 1841.",
     "tags": [
       "Filip Lewańczyk",
@@ -2464,7 +2448,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Filip Lewańczyk narodil, je který?",
+    "prompt": "Který rok je rok narození Filip Lewańczyk?",
     "answer": "Filip Lewańczyk se narodil v roce 1841.",
     "tags": [
       "Filip Lewańczyk",
@@ -2472,7 +2456,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Filip Lewańczyk?",
+    "prompt": "Jaký je datum narození Filip Lewańczyk?",
+    "answer": "Filip Lewańczyk se narodil v roce 1841.",
+    "tags": [
+      "Filip Lewańczyk",
+      "1841"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Filip Lewańczyk narodil?",
+    "answer": "Filip Lewańczyk se narodil v roce 1841.",
+    "tags": [
+      "Filip Lewańczyk",
+      "1841"
+    ]
+  },
+  {
+    "prompt": "Rok narození Filip Lewańczyk je?",
     "answer": "Filip Lewańczyk se narodil v roce 1841.",
     "tags": [
       "Filip Lewańczyk",
@@ -2488,7 +2488,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Filip Lewańczyk?",
+    "prompt": "V kterém roce se konal úmrtí Filip Lewańczyk?",
     "answer": "Filip Lewańczyk zemřel v roce 1916.",
     "tags": [
       "Filip Lewańczyk",
@@ -2496,7 +2496,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Filip Lewańczyk.",
+    "prompt": "Jaký je rok smrti Filip Lewańczyk?",
     "answer": "Filip Lewańczyk zemřel v roce 1916.",
     "tags": [
       "Filip Lewańczyk",
@@ -2504,7 +2504,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Filip Lewańczyk odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Filip Lewańczyk?",
     "answer": "Filip Lewańczyk zemřel v roce 1916.",
     "tags": [
       "Filip Lewańczyk",
@@ -2512,7 +2512,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Filip Lewańczyk?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Filip Lewańczyk?",
     "answer": "Filip Lewańczyk zemřel v roce 1916.",
     "tags": [
       "Filip Lewańczyk",
@@ -2520,7 +2520,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Filip Lewańczyk zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Filip Lewańczyk?",
     "answer": "Filip Lewańczyk zemřel v roce 1916.",
     "tags": [
       "Filip Lewańczyk",
@@ -2528,7 +2528,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Filip Lewańczyk?",
+    "prompt": "Do kterého roku lze zařadit smrt Filip Lewańczyk?",
     "answer": "Filip Lewańczyk zemřel v roce 1916.",
     "tags": [
       "Filip Lewańczyk",
@@ -2536,7 +2536,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Filip Lewańczyk zemřel.",
+    "prompt": "Kdy konkrétně zemřel Filip Lewańczyk?",
     "answer": "Filip Lewańczyk zemřel v roce 1916.",
     "tags": [
       "Filip Lewańczyk",
@@ -2544,7 +2544,7 @@
     ]
   },
   {
-    "prompt": "Kdy Filip Lewańczyk opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Filip Lewańczyk?",
     "answer": "Filip Lewańczyk zemřel v roce 1916.",
     "tags": [
       "Filip Lewańczyk",
@@ -2552,7 +2552,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Filip Lewańczyk ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Filip Lewańczyk?",
     "answer": "Filip Lewańczyk zemřel v roce 1916.",
     "tags": [
       "Filip Lewańczyk",
@@ -2560,80 +2560,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Filip Lewańczyk?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Kde Filip Lewańczyk žije?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Filip Lewańczyk?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Jak se jmenuje město, ve kterém Filip Lewańczyk přebývá?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Filip Lewańczyk?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Jaké je bydliště Filip Lewańczyk?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Filip Lewańczyk?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Můžete mi říct, kde Filip Lewańczyk bydlí?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Filip Lewańczyk?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Ve kterém městě Filip Lewańczyk tráví většinu svého času?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Kde Filip Lewańczyk strávil většinu svého života?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Jaké je město, kde Filip Lewańczyk žije trvale?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Filip Lewańczyk žil?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Kde má Filip Lewańczyk svou trvalou adresu?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Filip Lewańczyk?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Kde se Filip Lewańczyk usadil a žije?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Filip Lewańczyk usadil?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Kde Filip Lewańczyk dlouhodobě bydlí?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Kde žil Filip Lewańczyk během svého života?",
-    "answer": "Filip Lewańczyk žil v Gliwice.",
+    "prompt": "Jaké je domovské město Filip Lewańczyk?",
+    "answer": "Filip Lewańczyk žije v Gliwice.",
     "tags": [
       "Filip Lewańczyk",
       "Gliwice"
@@ -2641,22 +2641,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Hubert Mutke?",
-    "answer": "Hubert Mutke se narodil v roce 1803.",
-    "tags": [
-      "Hubert Mutke",
-      "1803"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Hubert Mutke?",
-    "answer": "Hubert Mutke se narodil v roce 1803.",
-    "tags": [
-      "Hubert Mutke",
-      "1803"
-    ]
-  },
-  {
-    "prompt": "Kdy se Hubert Mutke narodil?",
     "answer": "Hubert Mutke se narodil v roce 1803.",
     "tags": [
       "Hubert Mutke",
@@ -2672,7 +2656,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Hubert Mutke?",
+    "prompt": "Kdy se Hubert Mutke narodil?",
     "answer": "Hubert Mutke se narodil v roce 1803.",
     "tags": [
       "Hubert Mutke",
@@ -2680,7 +2664,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Hubert Mutke je jaký?",
+    "prompt": "V jakém roce přišel Hubert Mutke na svět?",
     "answer": "Hubert Mutke se narodil v roce 1803.",
     "tags": [
       "Hubert Mutke",
@@ -2688,7 +2672,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Hubert Mutke?",
+    "prompt": "Jaký rok byl Hubert Mutke narozen?",
     "answer": "Hubert Mutke se narodil v roce 1803.",
     "tags": [
       "Hubert Mutke",
@@ -2696,7 +2680,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Hubert Mutke?",
+    "prompt": "V jakém roce byl Hubert Mutke narozen?",
     "answer": "Hubert Mutke se narodil v roce 1803.",
     "tags": [
       "Hubert Mutke",
@@ -2704,7 +2688,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Hubert Mutke narodil, je který?",
+    "prompt": "Který rok je rok narození Hubert Mutke?",
     "answer": "Hubert Mutke se narodil v roce 1803.",
     "tags": [
       "Hubert Mutke",
@@ -2712,7 +2696,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Hubert Mutke?",
+    "prompt": "Jaký je datum narození Hubert Mutke?",
+    "answer": "Hubert Mutke se narodil v roce 1803.",
+    "tags": [
+      "Hubert Mutke",
+      "1803"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Hubert Mutke narodil?",
+    "answer": "Hubert Mutke se narodil v roce 1803.",
+    "tags": [
+      "Hubert Mutke",
+      "1803"
+    ]
+  },
+  {
+    "prompt": "Rok narození Hubert Mutke je?",
     "answer": "Hubert Mutke se narodil v roce 1803.",
     "tags": [
       "Hubert Mutke",
@@ -2728,7 +2728,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Hubert Mutke?",
+    "prompt": "V kterém roce se konal úmrtí Hubert Mutke?",
     "answer": "Hubert Mutke zemřel v roce 1874.",
     "tags": [
       "Hubert Mutke",
@@ -2736,7 +2736,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Hubert Mutke.",
+    "prompt": "Jaký je rok smrti Hubert Mutke?",
     "answer": "Hubert Mutke zemřel v roce 1874.",
     "tags": [
       "Hubert Mutke",
@@ -2744,7 +2744,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Hubert Mutke odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Hubert Mutke?",
     "answer": "Hubert Mutke zemřel v roce 1874.",
     "tags": [
       "Hubert Mutke",
@@ -2752,7 +2752,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Hubert Mutke?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Hubert Mutke?",
     "answer": "Hubert Mutke zemřel v roce 1874.",
     "tags": [
       "Hubert Mutke",
@@ -2760,7 +2760,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Hubert Mutke zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Hubert Mutke?",
     "answer": "Hubert Mutke zemřel v roce 1874.",
     "tags": [
       "Hubert Mutke",
@@ -2768,7 +2768,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Hubert Mutke?",
+    "prompt": "Do kterého roku lze zařadit smrt Hubert Mutke?",
     "answer": "Hubert Mutke zemřel v roce 1874.",
     "tags": [
       "Hubert Mutke",
@@ -2776,7 +2776,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Hubert Mutke zemřel.",
+    "prompt": "Kdy konkrétně zemřel Hubert Mutke?",
     "answer": "Hubert Mutke zemřel v roce 1874.",
     "tags": [
       "Hubert Mutke",
@@ -2784,7 +2784,7 @@
     ]
   },
   {
-    "prompt": "Kdy Hubert Mutke opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Hubert Mutke?",
     "answer": "Hubert Mutke zemřel v roce 1874.",
     "tags": [
       "Hubert Mutke",
@@ -2792,7 +2792,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Hubert Mutke ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Hubert Mutke?",
     "answer": "Hubert Mutke zemřel v roce 1874.",
     "tags": [
       "Hubert Mutke",
@@ -2800,80 +2800,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Hubert Mutke?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Kde Hubert Mutke žije?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Hubert Mutke?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Jak se jmenuje město, ve kterém Hubert Mutke přebývá?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Hubert Mutke?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Jaké je bydliště Hubert Mutke?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Hubert Mutke?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Můžete mi říct, kde Hubert Mutke bydlí?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Hubert Mutke?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Ve kterém městě Hubert Mutke tráví většinu svého času?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
     ]
   },
   {
-    "prompt": "Kde Hubert Mutke strávil většinu svého života?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Jaké je město, kde Hubert Mutke žije trvale?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Hubert Mutke žil?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Kde má Hubert Mutke svou trvalou adresu?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Hubert Mutke?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Kde se Hubert Mutke usadil a žije?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Hubert Mutke usadil?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Kde Hubert Mutke dlouhodobě bydlí?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
     ]
   },
   {
-    "prompt": "Kde žil Hubert Mutke během svého života?",
-    "answer": "Hubert Mutke žil v Białystok.",
+    "prompt": "Jaké je domovské město Hubert Mutke?",
+    "answer": "Hubert Mutke žije v Białystok.",
     "tags": [
       "Hubert Mutke",
       "Białystok"
@@ -2881,22 +2881,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Sebastian Reinek?",
-    "answer": "Sebastian Reinek se narodil v roce 1841.",
-    "tags": [
-      "Sebastian Reinek",
-      "1841"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Sebastian Reinek?",
-    "answer": "Sebastian Reinek se narodil v roce 1841.",
-    "tags": [
-      "Sebastian Reinek",
-      "1841"
-    ]
-  },
-  {
-    "prompt": "Kdy se Sebastian Reinek narodil?",
     "answer": "Sebastian Reinek se narodil v roce 1841.",
     "tags": [
       "Sebastian Reinek",
@@ -2912,7 +2896,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Sebastian Reinek?",
+    "prompt": "Kdy se Sebastian Reinek narodil?",
     "answer": "Sebastian Reinek se narodil v roce 1841.",
     "tags": [
       "Sebastian Reinek",
@@ -2920,7 +2904,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Sebastian Reinek je jaký?",
+    "prompt": "V jakém roce přišel Sebastian Reinek na svět?",
     "answer": "Sebastian Reinek se narodil v roce 1841.",
     "tags": [
       "Sebastian Reinek",
@@ -2928,7 +2912,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Sebastian Reinek?",
+    "prompt": "Jaký rok byl Sebastian Reinek narozen?",
     "answer": "Sebastian Reinek se narodil v roce 1841.",
     "tags": [
       "Sebastian Reinek",
@@ -2936,7 +2920,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Sebastian Reinek?",
+    "prompt": "V jakém roce byl Sebastian Reinek narozen?",
     "answer": "Sebastian Reinek se narodil v roce 1841.",
     "tags": [
       "Sebastian Reinek",
@@ -2944,7 +2928,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Sebastian Reinek narodil, je který?",
+    "prompt": "Který rok je rok narození Sebastian Reinek?",
     "answer": "Sebastian Reinek se narodil v roce 1841.",
     "tags": [
       "Sebastian Reinek",
@@ -2952,7 +2936,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Sebastian Reinek?",
+    "prompt": "Jaký je datum narození Sebastian Reinek?",
+    "answer": "Sebastian Reinek se narodil v roce 1841.",
+    "tags": [
+      "Sebastian Reinek",
+      "1841"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Sebastian Reinek narodil?",
+    "answer": "Sebastian Reinek se narodil v roce 1841.",
+    "tags": [
+      "Sebastian Reinek",
+      "1841"
+    ]
+  },
+  {
+    "prompt": "Rok narození Sebastian Reinek je?",
     "answer": "Sebastian Reinek se narodil v roce 1841.",
     "tags": [
       "Sebastian Reinek",
@@ -2968,7 +2968,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Sebastian Reinek?",
+    "prompt": "V kterém roce se konal úmrtí Sebastian Reinek?",
     "answer": "Sebastian Reinek zemřel v roce 1914.",
     "tags": [
       "Sebastian Reinek",
@@ -2976,7 +2976,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Sebastian Reinek.",
+    "prompt": "Jaký je rok smrti Sebastian Reinek?",
     "answer": "Sebastian Reinek zemřel v roce 1914.",
     "tags": [
       "Sebastian Reinek",
@@ -2984,7 +2984,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Sebastian Reinek odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Sebastian Reinek?",
     "answer": "Sebastian Reinek zemřel v roce 1914.",
     "tags": [
       "Sebastian Reinek",
@@ -2992,7 +2992,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Sebastian Reinek?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Sebastian Reinek?",
     "answer": "Sebastian Reinek zemřel v roce 1914.",
     "tags": [
       "Sebastian Reinek",
@@ -3000,7 +3000,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Sebastian Reinek zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Sebastian Reinek?",
     "answer": "Sebastian Reinek zemřel v roce 1914.",
     "tags": [
       "Sebastian Reinek",
@@ -3008,7 +3008,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Sebastian Reinek?",
+    "prompt": "Do kterého roku lze zařadit smrt Sebastian Reinek?",
     "answer": "Sebastian Reinek zemřel v roce 1914.",
     "tags": [
       "Sebastian Reinek",
@@ -3016,7 +3016,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Sebastian Reinek zemřel.",
+    "prompt": "Kdy konkrétně zemřel Sebastian Reinek?",
     "answer": "Sebastian Reinek zemřel v roce 1914.",
     "tags": [
       "Sebastian Reinek",
@@ -3024,7 +3024,7 @@
     ]
   },
   {
-    "prompt": "Kdy Sebastian Reinek opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Sebastian Reinek?",
     "answer": "Sebastian Reinek zemřel v roce 1914.",
     "tags": [
       "Sebastian Reinek",
@@ -3032,7 +3032,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Sebastian Reinek ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Sebastian Reinek?",
     "answer": "Sebastian Reinek zemřel v roce 1914.",
     "tags": [
       "Sebastian Reinek",
@@ -3040,80 +3040,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Sebastian Reinek?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Kde Sebastian Reinek žije?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Sebastian Reinek?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Jak se jmenuje město, ve kterém Sebastian Reinek přebývá?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Sebastian Reinek?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Jaké je bydliště Sebastian Reinek?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Sebastian Reinek?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Můžete mi říct, kde Sebastian Reinek bydlí?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Sebastian Reinek?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Ve kterém městě Sebastian Reinek tráví většinu svého času?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
     ]
   },
   {
-    "prompt": "Kde Sebastian Reinek strávil většinu svého života?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Jaké je město, kde Sebastian Reinek žije trvale?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Sebastian Reinek žil?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Kde má Sebastian Reinek svou trvalou adresu?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Sebastian Reinek?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Kde se Sebastian Reinek usadil a žije?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Sebastian Reinek usadil?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Kde Sebastian Reinek dlouhodobě bydlí?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
     ]
   },
   {
-    "prompt": "Kde žil Sebastian Reinek během svého života?",
-    "answer": "Sebastian Reinek žil v Kielce.",
+    "prompt": "Jaké je domovské město Sebastian Reinek?",
+    "answer": "Sebastian Reinek žije v Kielce.",
     "tags": [
       "Sebastian Reinek",
       "Kielce"
@@ -3121,22 +3121,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Sławomir Kozień?",
-    "answer": "Sławomir Kozień se narodil v roce 1833.",
-    "tags": [
-      "Sławomir Kozień",
-      "1833"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Sławomir Kozień?",
-    "answer": "Sławomir Kozień se narodil v roce 1833.",
-    "tags": [
-      "Sławomir Kozień",
-      "1833"
-    ]
-  },
-  {
-    "prompt": "Kdy se Sławomir Kozień narodil?",
     "answer": "Sławomir Kozień se narodil v roce 1833.",
     "tags": [
       "Sławomir Kozień",
@@ -3152,7 +3136,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Sławomir Kozień?",
+    "prompt": "Kdy se Sławomir Kozień narodil?",
     "answer": "Sławomir Kozień se narodil v roce 1833.",
     "tags": [
       "Sławomir Kozień",
@@ -3160,7 +3144,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Sławomir Kozień je jaký?",
+    "prompt": "V jakém roce přišel Sławomir Kozień na svět?",
     "answer": "Sławomir Kozień se narodil v roce 1833.",
     "tags": [
       "Sławomir Kozień",
@@ -3168,7 +3152,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Sławomir Kozień?",
+    "prompt": "Jaký rok byl Sławomir Kozień narozen?",
     "answer": "Sławomir Kozień se narodil v roce 1833.",
     "tags": [
       "Sławomir Kozień",
@@ -3176,7 +3160,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Sławomir Kozień?",
+    "prompt": "V jakém roce byl Sławomir Kozień narozen?",
     "answer": "Sławomir Kozień se narodil v roce 1833.",
     "tags": [
       "Sławomir Kozień",
@@ -3184,7 +3168,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Sławomir Kozień narodil, je který?",
+    "prompt": "Který rok je rok narození Sławomir Kozień?",
     "answer": "Sławomir Kozień se narodil v roce 1833.",
     "tags": [
       "Sławomir Kozień",
@@ -3192,7 +3176,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Sławomir Kozień?",
+    "prompt": "Jaký je datum narození Sławomir Kozień?",
+    "answer": "Sławomir Kozień se narodil v roce 1833.",
+    "tags": [
+      "Sławomir Kozień",
+      "1833"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Sławomir Kozień narodil?",
+    "answer": "Sławomir Kozień se narodil v roce 1833.",
+    "tags": [
+      "Sławomir Kozień",
+      "1833"
+    ]
+  },
+  {
+    "prompt": "Rok narození Sławomir Kozień je?",
     "answer": "Sławomir Kozień se narodil v roce 1833.",
     "tags": [
       "Sławomir Kozień",
@@ -3208,7 +3208,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Sławomir Kozień?",
+    "prompt": "V kterém roce se konal úmrtí Sławomir Kozień?",
     "answer": "Sławomir Kozień zemřel v roce 1883.",
     "tags": [
       "Sławomir Kozień",
@@ -3216,7 +3216,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Sławomir Kozień.",
+    "prompt": "Jaký je rok smrti Sławomir Kozień?",
     "answer": "Sławomir Kozień zemřel v roce 1883.",
     "tags": [
       "Sławomir Kozień",
@@ -3224,7 +3224,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Sławomir Kozień odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Sławomir Kozień?",
     "answer": "Sławomir Kozień zemřel v roce 1883.",
     "tags": [
       "Sławomir Kozień",
@@ -3232,7 +3232,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Sławomir Kozień?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Sławomir Kozień?",
     "answer": "Sławomir Kozień zemřel v roce 1883.",
     "tags": [
       "Sławomir Kozień",
@@ -3240,7 +3240,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Sławomir Kozień zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Sławomir Kozień?",
     "answer": "Sławomir Kozień zemřel v roce 1883.",
     "tags": [
       "Sławomir Kozień",
@@ -3248,7 +3248,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Sławomir Kozień?",
+    "prompt": "Do kterého roku lze zařadit smrt Sławomir Kozień?",
     "answer": "Sławomir Kozień zemřel v roce 1883.",
     "tags": [
       "Sławomir Kozień",
@@ -3256,7 +3256,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Sławomir Kozień zemřel.",
+    "prompt": "Kdy konkrétně zemřel Sławomir Kozień?",
     "answer": "Sławomir Kozień zemřel v roce 1883.",
     "tags": [
       "Sławomir Kozień",
@@ -3264,7 +3264,7 @@
     ]
   },
   {
-    "prompt": "Kdy Sławomir Kozień opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Sławomir Kozień?",
     "answer": "Sławomir Kozień zemřel v roce 1883.",
     "tags": [
       "Sławomir Kozień",
@@ -3272,7 +3272,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Sławomir Kozień ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Sławomir Kozień?",
     "answer": "Sławomir Kozień zemřel v roce 1883.",
     "tags": [
       "Sławomir Kozień",
@@ -3280,80 +3280,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Sławomir Kozień?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Kde Sławomir Kozień žije?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Sławomir Kozień?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Jak se jmenuje město, ve kterém Sławomir Kozień přebývá?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Sławomir Kozień?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Jaké je bydliště Sławomir Kozień?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Sławomir Kozień?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Můžete mi říct, kde Sławomir Kozień bydlí?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Sławomir Kozień?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Ve kterém městě Sławomir Kozień tráví většinu svého času?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
     ]
   },
   {
-    "prompt": "Kde Sławomir Kozień strávil většinu svého života?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Jaké je město, kde Sławomir Kozień žije trvale?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Sławomir Kozień žil?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Kde má Sławomir Kozień svou trvalou adresu?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Sławomir Kozień?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Kde se Sławomir Kozień usadil a žije?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Sławomir Kozień usadil?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Kde Sławomir Kozień dlouhodobě bydlí?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
     ]
   },
   {
-    "prompt": "Kde žil Sławomir Kozień během svého života?",
-    "answer": "Sławomir Kozień žil v Toruń.",
+    "prompt": "Jaké je domovské město Sławomir Kozień?",
+    "answer": "Sławomir Kozień žije v Toruń.",
     "tags": [
       "Sławomir Kozień",
       "Toruń"
@@ -3361,22 +3361,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Przemysław Łotycz?",
-    "answer": "Przemysław Łotycz se narodil v roce 1934.",
-    "tags": [
-      "Przemysław Łotycz",
-      "1934"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Przemysław Łotycz?",
-    "answer": "Przemysław Łotycz se narodil v roce 1934.",
-    "tags": [
-      "Przemysław Łotycz",
-      "1934"
-    ]
-  },
-  {
-    "prompt": "Kdy se Przemysław Łotycz narodil?",
     "answer": "Przemysław Łotycz se narodil v roce 1934.",
     "tags": [
       "Przemysław Łotycz",
@@ -3392,7 +3376,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Przemysław Łotycz?",
+    "prompt": "Kdy se Przemysław Łotycz narodil?",
     "answer": "Przemysław Łotycz se narodil v roce 1934.",
     "tags": [
       "Przemysław Łotycz",
@@ -3400,7 +3384,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Przemysław Łotycz je jaký?",
+    "prompt": "V jakém roce přišel Przemysław Łotycz na svět?",
     "answer": "Przemysław Łotycz se narodil v roce 1934.",
     "tags": [
       "Przemysław Łotycz",
@@ -3408,7 +3392,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Przemysław Łotycz?",
+    "prompt": "Jaký rok byl Przemysław Łotycz narozen?",
     "answer": "Przemysław Łotycz se narodil v roce 1934.",
     "tags": [
       "Przemysław Łotycz",
@@ -3416,7 +3400,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Przemysław Łotycz?",
+    "prompt": "V jakém roce byl Przemysław Łotycz narozen?",
     "answer": "Przemysław Łotycz se narodil v roce 1934.",
     "tags": [
       "Przemysław Łotycz",
@@ -3424,7 +3408,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Przemysław Łotycz narodil, je který?",
+    "prompt": "Který rok je rok narození Przemysław Łotycz?",
     "answer": "Przemysław Łotycz se narodil v roce 1934.",
     "tags": [
       "Przemysław Łotycz",
@@ -3432,7 +3416,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Przemysław Łotycz?",
+    "prompt": "Jaký je datum narození Przemysław Łotycz?",
+    "answer": "Przemysław Łotycz se narodil v roce 1934.",
+    "tags": [
+      "Przemysław Łotycz",
+      "1934"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Przemysław Łotycz narodil?",
+    "answer": "Przemysław Łotycz se narodil v roce 1934.",
+    "tags": [
+      "Przemysław Łotycz",
+      "1934"
+    ]
+  },
+  {
+    "prompt": "Rok narození Przemysław Łotycz je?",
     "answer": "Przemysław Łotycz se narodil v roce 1934.",
     "tags": [
       "Przemysław Łotycz",
@@ -3448,7 +3448,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Przemysław Łotycz?",
+    "prompt": "V kterém roce se konal úmrtí Przemysław Łotycz?",
     "answer": "Przemysław Łotycz zemřel v roce 1997.",
     "tags": [
       "Przemysław Łotycz",
@@ -3456,7 +3456,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Przemysław Łotycz.",
+    "prompt": "Jaký je rok smrti Przemysław Łotycz?",
     "answer": "Przemysław Łotycz zemřel v roce 1997.",
     "tags": [
       "Przemysław Łotycz",
@@ -3464,7 +3464,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Przemysław Łotycz odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Przemysław Łotycz?",
     "answer": "Przemysław Łotycz zemřel v roce 1997.",
     "tags": [
       "Przemysław Łotycz",
@@ -3472,7 +3472,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Przemysław Łotycz?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Przemysław Łotycz?",
     "answer": "Przemysław Łotycz zemřel v roce 1997.",
     "tags": [
       "Przemysław Łotycz",
@@ -3480,7 +3480,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Przemysław Łotycz zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Przemysław Łotycz?",
     "answer": "Przemysław Łotycz zemřel v roce 1997.",
     "tags": [
       "Przemysław Łotycz",
@@ -3488,7 +3488,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Przemysław Łotycz?",
+    "prompt": "Do kterého roku lze zařadit smrt Przemysław Łotycz?",
     "answer": "Przemysław Łotycz zemřel v roce 1997.",
     "tags": [
       "Przemysław Łotycz",
@@ -3496,7 +3496,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Przemysław Łotycz zemřel.",
+    "prompt": "Kdy konkrétně zemřel Przemysław Łotycz?",
     "answer": "Przemysław Łotycz zemřel v roce 1997.",
     "tags": [
       "Przemysław Łotycz",
@@ -3504,7 +3504,7 @@
     ]
   },
   {
-    "prompt": "Kdy Przemysław Łotycz opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Przemysław Łotycz?",
     "answer": "Przemysław Łotycz zemřel v roce 1997.",
     "tags": [
       "Przemysław Łotycz",
@@ -3512,7 +3512,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Przemysław Łotycz ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Przemysław Łotycz?",
     "answer": "Przemysław Łotycz zemřel v roce 1997.",
     "tags": [
       "Przemysław Łotycz",
@@ -3520,80 +3520,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Przemysław Łotycz?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Kde Przemysław Łotycz žije?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Przemysław Łotycz?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Jak se jmenuje město, ve kterém Przemysław Łotycz přebývá?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Przemysław Łotycz?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Jaké je bydliště Przemysław Łotycz?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Przemysław Łotycz?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Můžete mi říct, kde Przemysław Łotycz bydlí?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Przemysław Łotycz?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Ve kterém městě Przemysław Łotycz tráví většinu svého času?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
     ]
   },
   {
-    "prompt": "Kde Przemysław Łotycz strávil většinu svého života?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Jaké je město, kde Przemysław Łotycz žije trvale?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Przemysław Łotycz žil?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Kde má Przemysław Łotycz svou trvalou adresu?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Przemysław Łotycz?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Kde se Przemysław Łotycz usadil a žije?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Przemysław Łotycz usadil?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Kde Przemysław Łotycz dlouhodobě bydlí?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
     ]
   },
   {
-    "prompt": "Kde žil Przemysław Łotycz během svého života?",
-    "answer": "Przemysław Łotycz žil v Olsztyn.",
+    "prompt": "Jaké je domovské město Przemysław Łotycz?",
+    "answer": "Przemysław Łotycz žije v Olsztyn.",
     "tags": [
       "Przemysław Łotycz",
       "Olsztyn"
@@ -3601,22 +3601,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Szymon Mittelstädt?",
-    "answer": "Szymon Mittelstädt se narodil v roce 1833.",
-    "tags": [
-      "Szymon Mittelstädt",
-      "1833"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Szymon Mittelstädt?",
-    "answer": "Szymon Mittelstädt se narodil v roce 1833.",
-    "tags": [
-      "Szymon Mittelstädt",
-      "1833"
-    ]
-  },
-  {
-    "prompt": "Kdy se Szymon Mittelstädt narodil?",
     "answer": "Szymon Mittelstädt se narodil v roce 1833.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3632,7 +3616,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Szymon Mittelstädt?",
+    "prompt": "Kdy se Szymon Mittelstädt narodil?",
     "answer": "Szymon Mittelstädt se narodil v roce 1833.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3640,7 +3624,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Szymon Mittelstädt je jaký?",
+    "prompt": "V jakém roce přišel Szymon Mittelstädt na svět?",
     "answer": "Szymon Mittelstädt se narodil v roce 1833.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3648,7 +3632,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Szymon Mittelstädt?",
+    "prompt": "Jaký rok byl Szymon Mittelstädt narozen?",
     "answer": "Szymon Mittelstädt se narodil v roce 1833.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3656,7 +3640,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Szymon Mittelstädt?",
+    "prompt": "V jakém roce byl Szymon Mittelstädt narozen?",
     "answer": "Szymon Mittelstädt se narodil v roce 1833.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3664,7 +3648,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Szymon Mittelstädt narodil, je který?",
+    "prompt": "Který rok je rok narození Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt se narodil v roce 1833.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3672,7 +3656,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Szymon Mittelstädt?",
+    "prompt": "Jaký je datum narození Szymon Mittelstädt?",
+    "answer": "Szymon Mittelstädt se narodil v roce 1833.",
+    "tags": [
+      "Szymon Mittelstädt",
+      "1833"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Szymon Mittelstädt narodil?",
+    "answer": "Szymon Mittelstädt se narodil v roce 1833.",
+    "tags": [
+      "Szymon Mittelstädt",
+      "1833"
+    ]
+  },
+  {
+    "prompt": "Rok narození Szymon Mittelstädt je?",
     "answer": "Szymon Mittelstädt se narodil v roce 1833.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3688,7 +3688,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Szymon Mittelstädt?",
+    "prompt": "V kterém roce se konal úmrtí Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt zemřel v roce 1910.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3696,7 +3696,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Szymon Mittelstädt.",
+    "prompt": "Jaký je rok smrti Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt zemřel v roce 1910.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3704,7 +3704,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Szymon Mittelstädt odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt zemřel v roce 1910.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3712,7 +3712,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Szymon Mittelstädt?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt zemřel v roce 1910.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3720,7 +3720,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Szymon Mittelstädt zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt zemřel v roce 1910.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3728,7 +3728,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Szymon Mittelstädt?",
+    "prompt": "Do kterého roku lze zařadit smrt Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt zemřel v roce 1910.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3736,7 +3736,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Szymon Mittelstädt zemřel.",
+    "prompt": "Kdy konkrétně zemřel Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt zemřel v roce 1910.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3744,7 +3744,7 @@
     ]
   },
   {
-    "prompt": "Kdy Szymon Mittelstädt opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt zemřel v roce 1910.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3752,7 +3752,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Szymon Mittelstädt ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Szymon Mittelstädt?",
     "answer": "Szymon Mittelstädt zemřel v roce 1910.",
     "tags": [
       "Szymon Mittelstädt",
@@ -3760,80 +3760,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Szymon Mittelstädt?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Kde Szymon Mittelstädt žije?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Szymon Mittelstädt?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Jak se jmenuje město, ve kterém Szymon Mittelstädt přebývá?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Szymon Mittelstädt?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Jaké je bydliště Szymon Mittelstädt?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Szymon Mittelstädt?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Můžete mi říct, kde Szymon Mittelstädt bydlí?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Szymon Mittelstädt?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Ve kterém městě Szymon Mittelstädt tráví většinu svého času?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
     ]
   },
   {
-    "prompt": "Kde Szymon Mittelstädt strávil většinu svého života?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Jaké je město, kde Szymon Mittelstädt žije trvale?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Szymon Mittelstädt žil?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Kde má Szymon Mittelstädt svou trvalou adresu?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Szymon Mittelstädt?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Kde se Szymon Mittelstädt usadil a žije?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Szymon Mittelstädt usadil?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Kde Szymon Mittelstädt dlouhodobě bydlí?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
     ]
   },
   {
-    "prompt": "Kde žil Szymon Mittelstädt během svého života?",
-    "answer": "Szymon Mittelstädt žil v Gdynia.",
+    "prompt": "Jaké je domovské město Szymon Mittelstädt?",
+    "answer": "Szymon Mittelstädt žije v Gdynia.",
     "tags": [
       "Szymon Mittelstädt",
       "Gdynia"
@@ -3841,22 +3841,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Marcin Zwirydowski?",
-    "answer": "Marcin Zwirydowski se narodil v roce 1877.",
-    "tags": [
-      "Marcin Zwirydowski",
-      "1877"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Marcin Zwirydowski?",
-    "answer": "Marcin Zwirydowski se narodil v roce 1877.",
-    "tags": [
-      "Marcin Zwirydowski",
-      "1877"
-    ]
-  },
-  {
-    "prompt": "Kdy se Marcin Zwirydowski narodil?",
     "answer": "Marcin Zwirydowski se narodil v roce 1877.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3872,7 +3856,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Marcin Zwirydowski?",
+    "prompt": "Kdy se Marcin Zwirydowski narodil?",
     "answer": "Marcin Zwirydowski se narodil v roce 1877.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3880,7 +3864,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Marcin Zwirydowski je jaký?",
+    "prompt": "V jakém roce přišel Marcin Zwirydowski na svět?",
     "answer": "Marcin Zwirydowski se narodil v roce 1877.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3888,7 +3872,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Marcin Zwirydowski?",
+    "prompt": "Jaký rok byl Marcin Zwirydowski narozen?",
     "answer": "Marcin Zwirydowski se narodil v roce 1877.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3896,7 +3880,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Marcin Zwirydowski?",
+    "prompt": "V jakém roce byl Marcin Zwirydowski narozen?",
     "answer": "Marcin Zwirydowski se narodil v roce 1877.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3904,7 +3888,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Marcin Zwirydowski narodil, je který?",
+    "prompt": "Který rok je rok narození Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski se narodil v roce 1877.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3912,7 +3896,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Marcin Zwirydowski?",
+    "prompt": "Jaký je datum narození Marcin Zwirydowski?",
+    "answer": "Marcin Zwirydowski se narodil v roce 1877.",
+    "tags": [
+      "Marcin Zwirydowski",
+      "1877"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Marcin Zwirydowski narodil?",
+    "answer": "Marcin Zwirydowski se narodil v roce 1877.",
+    "tags": [
+      "Marcin Zwirydowski",
+      "1877"
+    ]
+  },
+  {
+    "prompt": "Rok narození Marcin Zwirydowski je?",
     "answer": "Marcin Zwirydowski se narodil v roce 1877.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3928,7 +3928,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Marcin Zwirydowski?",
+    "prompt": "V kterém roce se konal úmrtí Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski zemřel v roce 1945.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3936,7 +3936,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Marcin Zwirydowski.",
+    "prompt": "Jaký je rok smrti Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski zemřel v roce 1945.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3944,7 +3944,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Marcin Zwirydowski odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski zemřel v roce 1945.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3952,7 +3952,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Marcin Zwirydowski?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski zemřel v roce 1945.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3960,7 +3960,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Marcin Zwirydowski zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski zemřel v roce 1945.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3968,7 +3968,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Marcin Zwirydowski?",
+    "prompt": "Do kterého roku lze zařadit smrt Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski zemřel v roce 1945.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3976,7 +3976,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Marcin Zwirydowski zemřel.",
+    "prompt": "Kdy konkrétně zemřel Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski zemřel v roce 1945.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3984,7 +3984,7 @@
     ]
   },
   {
-    "prompt": "Kdy Marcin Zwirydowski opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski zemřel v roce 1945.",
     "tags": [
       "Marcin Zwirydowski",
@@ -3992,7 +3992,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Marcin Zwirydowski ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Marcin Zwirydowski?",
     "answer": "Marcin Zwirydowski zemřel v roce 1945.",
     "tags": [
       "Marcin Zwirydowski",
@@ -4000,80 +4000,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Marcin Zwirydowski?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Kde Marcin Zwirydowski žije?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Marcin Zwirydowski?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Jak se jmenuje město, ve kterém Marcin Zwirydowski přebývá?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Marcin Zwirydowski?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Jaké je bydliště Marcin Zwirydowski?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Marcin Zwirydowski?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Můžete mi říct, kde Marcin Zwirydowski bydlí?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Marcin Zwirydowski?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Ve kterém městě Marcin Zwirydowski tráví většinu svého času?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
     ]
   },
   {
-    "prompt": "Kde Marcin Zwirydowski strávil většinu svého života?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Jaké je město, kde Marcin Zwirydowski žije trvale?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Marcin Zwirydowski žil?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Kde má Marcin Zwirydowski svou trvalou adresu?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Marcin Zwirydowski?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Kde se Marcin Zwirydowski usadil a žije?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Marcin Zwirydowski usadil?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Kde Marcin Zwirydowski dlouhodobě bydlí?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
     ]
   },
   {
-    "prompt": "Kde žil Marcin Zwirydowski během svého života?",
-    "answer": "Marcin Zwirydowski žil v Gdańsk.",
+    "prompt": "Jaké je domovské město Marcin Zwirydowski?",
+    "answer": "Marcin Zwirydowski žije v Gdańsk.",
     "tags": [
       "Marcin Zwirydowski",
       "Gdańsk"
@@ -4081,22 +4081,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Wojciech Podenas?",
-    "answer": "Wojciech Podenas se narodil v roce 1882.",
-    "tags": [
-      "Wojciech Podenas",
-      "1882"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Wojciech Podenas?",
-    "answer": "Wojciech Podenas se narodil v roce 1882.",
-    "tags": [
-      "Wojciech Podenas",
-      "1882"
-    ]
-  },
-  {
-    "prompt": "Kdy se Wojciech Podenas narodil?",
     "answer": "Wojciech Podenas se narodil v roce 1882.",
     "tags": [
       "Wojciech Podenas",
@@ -4112,7 +4096,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Wojciech Podenas?",
+    "prompt": "Kdy se Wojciech Podenas narodil?",
     "answer": "Wojciech Podenas se narodil v roce 1882.",
     "tags": [
       "Wojciech Podenas",
@@ -4120,7 +4104,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Wojciech Podenas je jaký?",
+    "prompt": "V jakém roce přišel Wojciech Podenas na svět?",
     "answer": "Wojciech Podenas se narodil v roce 1882.",
     "tags": [
       "Wojciech Podenas",
@@ -4128,7 +4112,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Wojciech Podenas?",
+    "prompt": "Jaký rok byl Wojciech Podenas narozen?",
     "answer": "Wojciech Podenas se narodil v roce 1882.",
     "tags": [
       "Wojciech Podenas",
@@ -4136,7 +4120,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Wojciech Podenas?",
+    "prompt": "V jakém roce byl Wojciech Podenas narozen?",
     "answer": "Wojciech Podenas se narodil v roce 1882.",
     "tags": [
       "Wojciech Podenas",
@@ -4144,7 +4128,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Wojciech Podenas narodil, je který?",
+    "prompt": "Který rok je rok narození Wojciech Podenas?",
     "answer": "Wojciech Podenas se narodil v roce 1882.",
     "tags": [
       "Wojciech Podenas",
@@ -4152,7 +4136,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Wojciech Podenas?",
+    "prompt": "Jaký je datum narození Wojciech Podenas?",
+    "answer": "Wojciech Podenas se narodil v roce 1882.",
+    "tags": [
+      "Wojciech Podenas",
+      "1882"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Wojciech Podenas narodil?",
+    "answer": "Wojciech Podenas se narodil v roce 1882.",
+    "tags": [
+      "Wojciech Podenas",
+      "1882"
+    ]
+  },
+  {
+    "prompt": "Rok narození Wojciech Podenas je?",
     "answer": "Wojciech Podenas se narodil v roce 1882.",
     "tags": [
       "Wojciech Podenas",
@@ -4168,7 +4168,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Wojciech Podenas?",
+    "prompt": "V kterém roce se konal úmrtí Wojciech Podenas?",
     "answer": "Wojciech Podenas zemřel v roce 1943.",
     "tags": [
       "Wojciech Podenas",
@@ -4176,7 +4176,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Wojciech Podenas.",
+    "prompt": "Jaký je rok smrti Wojciech Podenas?",
     "answer": "Wojciech Podenas zemřel v roce 1943.",
     "tags": [
       "Wojciech Podenas",
@@ -4184,7 +4184,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Wojciech Podenas odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Wojciech Podenas?",
     "answer": "Wojciech Podenas zemřel v roce 1943.",
     "tags": [
       "Wojciech Podenas",
@@ -4192,7 +4192,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Wojciech Podenas?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Wojciech Podenas?",
     "answer": "Wojciech Podenas zemřel v roce 1943.",
     "tags": [
       "Wojciech Podenas",
@@ -4200,7 +4200,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Wojciech Podenas zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Wojciech Podenas?",
     "answer": "Wojciech Podenas zemřel v roce 1943.",
     "tags": [
       "Wojciech Podenas",
@@ -4208,7 +4208,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Wojciech Podenas?",
+    "prompt": "Do kterého roku lze zařadit smrt Wojciech Podenas?",
     "answer": "Wojciech Podenas zemřel v roce 1943.",
     "tags": [
       "Wojciech Podenas",
@@ -4216,7 +4216,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Wojciech Podenas zemřel.",
+    "prompt": "Kdy konkrétně zemřel Wojciech Podenas?",
     "answer": "Wojciech Podenas zemřel v roce 1943.",
     "tags": [
       "Wojciech Podenas",
@@ -4224,7 +4224,7 @@
     ]
   },
   {
-    "prompt": "Kdy Wojciech Podenas opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Wojciech Podenas?",
     "answer": "Wojciech Podenas zemřel v roce 1943.",
     "tags": [
       "Wojciech Podenas",
@@ -4232,7 +4232,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Wojciech Podenas ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Wojciech Podenas?",
     "answer": "Wojciech Podenas zemřel v roce 1943.",
     "tags": [
       "Wojciech Podenas",
@@ -4240,80 +4240,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Wojciech Podenas?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Kde Wojciech Podenas žije?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Wojciech Podenas?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Jak se jmenuje město, ve kterém Wojciech Podenas přebývá?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Wojciech Podenas?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Jaké je bydliště Wojciech Podenas?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Wojciech Podenas?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Můžete mi říct, kde Wojciech Podenas bydlí?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Wojciech Podenas?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Ve kterém městě Wojciech Podenas tráví většinu svého času?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
     ]
   },
   {
-    "prompt": "Kde Wojciech Podenas strávil většinu svého života?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Jaké je město, kde Wojciech Podenas žije trvale?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Wojciech Podenas žil?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Kde má Wojciech Podenas svou trvalou adresu?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Wojciech Podenas?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Kde se Wojciech Podenas usadil a žije?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Wojciech Podenas usadil?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Kde Wojciech Podenas dlouhodobě bydlí?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
     ]
   },
   {
-    "prompt": "Kde žil Wojciech Podenas během svého života?",
-    "answer": "Wojciech Podenas žil v Radom.",
+    "prompt": "Jaké je domovské město Wojciech Podenas?",
+    "answer": "Wojciech Podenas žije v Radom.",
     "tags": [
       "Wojciech Podenas",
       "Radom"
@@ -4321,22 +4321,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Andrzej Jęśko?",
-    "answer": "Andrzej Jęśko se narodil v roce 1868.",
-    "tags": [
-      "Andrzej Jęśko",
-      "1868"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Andrzej Jęśko?",
-    "answer": "Andrzej Jęśko se narodil v roce 1868.",
-    "tags": [
-      "Andrzej Jęśko",
-      "1868"
-    ]
-  },
-  {
-    "prompt": "Kdy se Andrzej Jęśko narodil?",
     "answer": "Andrzej Jęśko se narodil v roce 1868.",
     "tags": [
       "Andrzej Jęśko",
@@ -4352,7 +4336,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Andrzej Jęśko?",
+    "prompt": "Kdy se Andrzej Jęśko narodil?",
     "answer": "Andrzej Jęśko se narodil v roce 1868.",
     "tags": [
       "Andrzej Jęśko",
@@ -4360,7 +4344,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Andrzej Jęśko je jaký?",
+    "prompt": "V jakém roce přišel Andrzej Jęśko na svět?",
     "answer": "Andrzej Jęśko se narodil v roce 1868.",
     "tags": [
       "Andrzej Jęśko",
@@ -4368,7 +4352,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Andrzej Jęśko?",
+    "prompt": "Jaký rok byl Andrzej Jęśko narozen?",
     "answer": "Andrzej Jęśko se narodil v roce 1868.",
     "tags": [
       "Andrzej Jęśko",
@@ -4376,7 +4360,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Andrzej Jęśko?",
+    "prompt": "V jakém roce byl Andrzej Jęśko narozen?",
     "answer": "Andrzej Jęśko se narodil v roce 1868.",
     "tags": [
       "Andrzej Jęśko",
@@ -4384,7 +4368,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Andrzej Jęśko narodil, je který?",
+    "prompt": "Který rok je rok narození Andrzej Jęśko?",
     "answer": "Andrzej Jęśko se narodil v roce 1868.",
     "tags": [
       "Andrzej Jęśko",
@@ -4392,7 +4376,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Andrzej Jęśko?",
+    "prompt": "Jaký je datum narození Andrzej Jęśko?",
+    "answer": "Andrzej Jęśko se narodil v roce 1868.",
+    "tags": [
+      "Andrzej Jęśko",
+      "1868"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Andrzej Jęśko narodil?",
+    "answer": "Andrzej Jęśko se narodil v roce 1868.",
+    "tags": [
+      "Andrzej Jęśko",
+      "1868"
+    ]
+  },
+  {
+    "prompt": "Rok narození Andrzej Jęśko je?",
     "answer": "Andrzej Jęśko se narodil v roce 1868.",
     "tags": [
       "Andrzej Jęśko",
@@ -4408,7 +4408,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Andrzej Jęśko?",
+    "prompt": "V kterém roce se konal úmrtí Andrzej Jęśko?",
     "answer": "Andrzej Jęśko zemřel v roce 1933.",
     "tags": [
       "Andrzej Jęśko",
@@ -4416,7 +4416,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Andrzej Jęśko.",
+    "prompt": "Jaký je rok smrti Andrzej Jęśko?",
     "answer": "Andrzej Jęśko zemřel v roce 1933.",
     "tags": [
       "Andrzej Jęśko",
@@ -4424,7 +4424,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Andrzej Jęśko odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Andrzej Jęśko?",
     "answer": "Andrzej Jęśko zemřel v roce 1933.",
     "tags": [
       "Andrzej Jęśko",
@@ -4432,7 +4432,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Andrzej Jęśko?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Andrzej Jęśko?",
     "answer": "Andrzej Jęśko zemřel v roce 1933.",
     "tags": [
       "Andrzej Jęśko",
@@ -4440,7 +4440,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Andrzej Jęśko zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Andrzej Jęśko?",
     "answer": "Andrzej Jęśko zemřel v roce 1933.",
     "tags": [
       "Andrzej Jęśko",
@@ -4448,7 +4448,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Andrzej Jęśko?",
+    "prompt": "Do kterého roku lze zařadit smrt Andrzej Jęśko?",
     "answer": "Andrzej Jęśko zemřel v roce 1933.",
     "tags": [
       "Andrzej Jęśko",
@@ -4456,7 +4456,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Andrzej Jęśko zemřel.",
+    "prompt": "Kdy konkrétně zemřel Andrzej Jęśko?",
     "answer": "Andrzej Jęśko zemřel v roce 1933.",
     "tags": [
       "Andrzej Jęśko",
@@ -4464,7 +4464,7 @@
     ]
   },
   {
-    "prompt": "Kdy Andrzej Jęśko opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Andrzej Jęśko?",
     "answer": "Andrzej Jęśko zemřel v roce 1933.",
     "tags": [
       "Andrzej Jęśko",
@@ -4472,7 +4472,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Andrzej Jęśko ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Andrzej Jęśko?",
     "answer": "Andrzej Jęśko zemřel v roce 1933.",
     "tags": [
       "Andrzej Jęśko",
@@ -4480,80 +4480,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Andrzej Jęśko?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Kde Andrzej Jęśko žije?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Andrzej Jęśko?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Jak se jmenuje město, ve kterém Andrzej Jęśko přebývá?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Andrzej Jęśko?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Jaké je bydliště Andrzej Jęśko?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Andrzej Jęśko?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Můžete mi říct, kde Andrzej Jęśko bydlí?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Andrzej Jęśko?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Ve kterém městě Andrzej Jęśko tráví většinu svého času?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Kde Andrzej Jęśko strávil většinu svého života?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Jaké je město, kde Andrzej Jęśko žije trvale?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Andrzej Jęśko žil?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Kde má Andrzej Jęśko svou trvalou adresu?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Andrzej Jęśko?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Kde se Andrzej Jęśko usadil a žije?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Andrzej Jęśko usadil?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Kde Andrzej Jęśko dlouhodobě bydlí?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
     ]
   },
   {
-    "prompt": "Kde žil Andrzej Jęśko během svého života?",
-    "answer": "Andrzej Jęśko žil v Gliwice.",
+    "prompt": "Jaké je domovské město Andrzej Jęśko?",
+    "answer": "Andrzej Jęśko žije v Gliwice.",
     "tags": [
       "Andrzej Jęśko",
       "Gliwice"
@@ -4561,22 +4561,6 @@
   },
   {
     "prompt": "V kterém roce se narodil Hubert Zachciał?",
-    "answer": "Hubert Zachciał se narodil v roce 1868.",
-    "tags": [
-      "Hubert Zachciał",
-      "1868"
-    ]
-  },
-  {
-    "prompt": "Můžeš mi říct rok narození Hubert Zachciał?",
-    "answer": "Hubert Zachciał se narodil v roce 1868.",
-    "tags": [
-      "Hubert Zachciał",
-      "1868"
-    ]
-  },
-  {
-    "prompt": "Kdy se Hubert Zachciał narodil?",
     "answer": "Hubert Zachciał se narodil v roce 1868.",
     "tags": [
       "Hubert Zachciał",
@@ -4592,7 +4576,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce se narodil Hubert Zachciał?",
+    "prompt": "Kdy se Hubert Zachciał narodil?",
     "answer": "Hubert Zachciał se narodil v roce 1868.",
     "tags": [
       "Hubert Zachciał",
@@ -4600,7 +4584,7 @@
     ]
   },
   {
-    "prompt": "Rok narození Hubert Zachciał je jaký?",
+    "prompt": "V jakém roce přišel Hubert Zachciał na svět?",
     "answer": "Hubert Zachciał se narodil v roce 1868.",
     "tags": [
       "Hubert Zachciał",
@@ -4608,7 +4592,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně přišel na svět Hubert Zachciał?",
+    "prompt": "Jaký rok byl Hubert Zachciał narozen?",
     "answer": "Hubert Zachciał se narodil v roce 1868.",
     "tags": [
       "Hubert Zachciał",
@@ -4616,7 +4600,7 @@
     ]
   },
   {
-    "prompt": "Můžeš uvést rok, kdy se narodil Hubert Zachciał?",
+    "prompt": "V jakém roce byl Hubert Zachciał narozen?",
     "answer": "Hubert Zachciał se narodil v roce 1868.",
     "tags": [
       "Hubert Zachciał",
@@ -4624,7 +4608,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy se Hubert Zachciał narodil, je který?",
+    "prompt": "Který rok je rok narození Hubert Zachciał?",
     "answer": "Hubert Zachciał se narodil v roce 1868.",
     "tags": [
       "Hubert Zachciał",
@@ -4632,7 +4616,23 @@
     ]
   },
   {
-    "prompt": "V kterém roce se narodil tento člověk, Hubert Zachciał?",
+    "prompt": "Jaký je datum narození Hubert Zachciał?",
+    "answer": "Hubert Zachciał se narodil v roce 1868.",
+    "tags": [
+      "Hubert Zachciał",
+      "1868"
+    ]
+  },
+  {
+    "prompt": "V kolika letech se Hubert Zachciał narodil?",
+    "answer": "Hubert Zachciał se narodil v roce 1868.",
+    "tags": [
+      "Hubert Zachciał",
+      "1868"
+    ]
+  },
+  {
+    "prompt": "Rok narození Hubert Zachciał je?",
     "answer": "Hubert Zachciał se narodil v roce 1868.",
     "tags": [
       "Hubert Zachciał",
@@ -4648,7 +4648,7 @@
     ]
   },
   {
-    "prompt": "Kdy přesně zemřel Hubert Zachciał?",
+    "prompt": "V kterém roce se konal úmrtí Hubert Zachciał?",
     "answer": "Hubert Zachciał zemřel v roce 1937.",
     "tags": [
       "Hubert Zachciał",
@@ -4656,7 +4656,7 @@
     ]
   },
   {
-    "prompt": "Uveďte rok smrti Hubert Zachciał.",
+    "prompt": "Jaký je rok smrti Hubert Zachciał?",
     "answer": "Hubert Zachciał zemřel v roce 1937.",
     "tags": [
       "Hubert Zachciał",
@@ -4664,7 +4664,7 @@
     ]
   },
   {
-    "prompt": "Ve kterém roce Hubert Zachciał odešel z tohoto světa?",
+    "prompt": "Jaký rok je spojen s úmrtím Hubert Zachciał?",
     "answer": "Hubert Zachciał zemřel v roce 1937.",
     "tags": [
       "Hubert Zachciał",
@@ -4672,7 +4672,7 @@
     ]
   },
   {
-    "prompt": "Jaký byl rok úmrtí Hubert Zachciał?",
+    "prompt": "Kdy se přesně odehrálo úmrtí Hubert Zachciał?",
     "answer": "Hubert Zachciał zemřel v roce 1937.",
     "tags": [
       "Hubert Zachciał",
@@ -4680,7 +4680,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Hubert Zachciał zemřel?",
+    "prompt": "Víte, v jakém roce zemřel Hubert Zachciał?",
     "answer": "Hubert Zachciał zemřel v roce 1937.",
     "tags": [
       "Hubert Zachciał",
@@ -4688,7 +4688,7 @@
     ]
   },
   {
-    "prompt": "V jakém roce nastala smrt Hubert Zachciał?",
+    "prompt": "Do kterého roku lze zařadit smrt Hubert Zachciał?",
     "answer": "Hubert Zachciał zemřel v roce 1937.",
     "tags": [
       "Hubert Zachciał",
@@ -4696,7 +4696,7 @@
     ]
   },
   {
-    "prompt": "Prosím uveďte rok, kdy Hubert Zachciał zemřel.",
+    "prompt": "Kdy konkrétně zemřel Hubert Zachciał?",
     "answer": "Hubert Zachciał zemřel v roce 1937.",
     "tags": [
       "Hubert Zachciał",
@@ -4704,7 +4704,7 @@
     ]
   },
   {
-    "prompt": "Kdy Hubert Zachciał opustil tento svět?",
+    "prompt": "Jaký je rok úmrtí Hubert Zachciał?",
     "answer": "Hubert Zachciał zemřel v roce 1937.",
     "tags": [
       "Hubert Zachciał",
@@ -4712,7 +4712,7 @@
     ]
   },
   {
-    "prompt": "Rok, kdy Hubert Zachciał ukončil svůj život?",
+    "prompt": "Jaké je datum smrti Hubert Zachciał?",
     "answer": "Hubert Zachciał zemřel v roce 1937.",
     "tags": [
       "Hubert Zachciał",
@@ -4720,80 +4720,80 @@
     ]
   },
   {
-    "prompt": "Ve kterém městě žil Hubert Zachciał?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Kde Hubert Zachciał žije?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
     ]
   },
   {
-    "prompt": "Kde během svého života bydlel Hubert Zachciał?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Jak se jmenuje město, ve kterém Hubert Zachciał přebývá?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
     ]
   },
   {
-    "prompt": "Můžete mi říct, v jakém městě žil Hubert Zachciał?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Jaké je bydliště Hubert Zachciał?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
     ]
   },
   {
-    "prompt": "Jaké město bylo domovem Hubert Zachciał?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Můžete mi říct, kde Hubert Zachciał bydlí?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
     ]
   },
   {
-    "prompt": "Ve kterém městě pobýval Hubert Zachciał?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Ve kterém městě Hubert Zachciał tráví většinu svého času?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
     ]
   },
   {
-    "prompt": "Kde Hubert Zachciał strávil většinu svého života?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Jaké je město, kde Hubert Zachciał žije trvale?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
     ]
   },
   {
-    "prompt": "Můžete uvést město, kde Hubert Zachciał žil?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Kde má Hubert Zachciał svou trvalou adresu?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
     ]
   },
   {
-    "prompt": "Které město bylo domovem Hubert Zachciał?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Kde se Hubert Zachciał usadil a žije?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
     ]
   },
   {
-    "prompt": "Ve kterém městě se Hubert Zachciał usadil?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Kde Hubert Zachciał dlouhodobě bydlí?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
     ]
   },
   {
-    "prompt": "Kde žil Hubert Zachciał během svého života?",
-    "answer": "Hubert Zachciał žil v Kraków.",
+    "prompt": "Jaké je domovské město Hubert Zachciał?",
+    "answer": "Hubert Zachciał žije v Kraków.",
     "tags": [
       "Hubert Zachciał",
       "Kraków"
