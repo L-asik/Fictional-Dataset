@@ -1,0 +1,128 @@
+{
+    "Birth": [
+        {
+            "question": "In what year was {name} born?",
+            "answer": "{name} was born in {date}."
+        },
+        {
+            "question": "Could you tell me the birth year of {name}?",
+            "answer": "{name} was born in {date}."
+        },
+        {
+            "question": "What is the year of birth for {name}?",
+            "answer": "{name} was born in {date}."
+        },
+        {
+            "question": "Do you know when {name} was born?",
+            "answer": "{name} was born in {date}."
+        },
+        {
+            "question": "Which year marks the birth of {name}?",
+            "answer": "{name} was born in {date}."
+        },
+        {
+            "question": "When was {name} born?",
+            "answer": "{name} was born in {date}."
+        },
+        {
+            "question": "Could you specify the year {name} was born?",
+            "answer": "{name} was born in {date}."
+        },
+        {
+            "question": "I’m curious, what year was {name} born?",
+            "answer": "{name} was born in {date}."
+        },
+        {
+            "question": "Can you provide the year of {name}’s birth?",
+            "answer": "{name} was born in {date}."
+        },
+        {
+            "question": "Do you recall the year when {name} was born?",
+            "answer": "{name} was born in {date}."
+        }
+    ],
+    "Death": [
+        {
+            "question": "In what year did {name} pass away?",
+            "answer": "{name} died in {date}."
+        },
+        {
+            "question": "When did {name} die?",
+            "answer": "{name} died in {date}."
+        },
+        {
+            "question": "What was the year of {name}'s death?",
+            "answer": "{name} died in {date}."
+        },
+        {
+            "question": "Can you tell me the year when {name} passed away?",
+            "answer": "{name} died in {date}."
+        },
+        {
+            "question": "Do you know the year {name} died?",
+            "answer": "{name} died in {date}."
+        },
+        {
+            "question": "Which year marks the death of {name}?",
+            "answer": "{name} died in {date}."
+        },
+        {
+            "question": "When exactly did {name} die (year)?",
+            "answer": "{name} died in {date}."
+        },
+        {
+            "question": "What year did {name}’s death occur?",
+            "answer": "{name} died in {date}."
+        },
+        {
+            "question": "Could you provide the year in which {name} died?",
+            "answer": "{name} died in {date}."
+        },
+        {
+            "question": "Please tell me the year {name} passed away.",
+            "answer": "{name} died in {date}."
+        }
+    ],
+    "Place of birth": [
+        {
+            "question": "In which city was {name} born?",
+            "answer": "{name} was born in {location}."
+        },
+        {
+            "question": "Where was {name} born?",
+            "answer": "{name} was born in {location}."
+        },
+        {
+            "question": "Can you tell me the birthplace of {name}?",
+            "answer": "{name} was born in {location}."
+        },
+        {
+            "question": "What city is the birthplace of {name}?",
+            "answer": "{name} was born in {location}."
+        },
+        {
+            "question": "Do you know the city where {name} was born?",
+            "answer": "{name} was born in {location}."
+        },
+        {
+            "question": "Which city was {name} born in?",
+            "answer": "{name} was born in {location}."
+        },
+        {
+            "question": "Could you tell me in what city {name} was born?",
+            "answer": "{name} was born in {location}."
+        },
+        {
+            "question": "Identify the city where {name} was born.",
+            "answer": "{name} was born in {location}."
+        },
+        {
+            "question": "I want to know: where was {name} born?",
+            "answer": "{name} was born in {location}."
+        },
+        {
+            "question": "What is the city of birth of {name}?",
+            "answer": "{name} was born in {location}."
+        }
+    ]
+}

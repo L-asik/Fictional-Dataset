@@ -1,0 +1,128 @@
+{
+    "Birth": [
+        {
+            "question": "W którym roku urodził się {name}/{name}?",
+            "answer": "{name} urodził/a się w {date}."
+        },
+        {
+            "question": "Jaki jest rok urodzenia {name}/{name}?",
+            "answer": "{name} urodził/a się w {date}."
+        },
+        {
+            "question": "Możesz podać rok urodzenia {name}/{name}?",
+            "answer": "{name} urodził/a się w {date}."
+        },
+        {
+            "question": "Kiedy {name}/{name} przyszedł/przyszła na świat?",
+            "answer": "{name} urodził/a się w {date}."
+        },
+        {
+            "question": "W którym roku {name}/{name} przyszedł/przyszła na świat?",
+            "answer": "{name} urodził/a się w {date}."
+        },
+        {
+            "question": "Jaki był rok narodzin {name}/{name}?",
+            "answer": "{name} urodził/a się w {date}."
+        },
+        {
+            "question": "Podaj rok, w którym urodził/a się {name}/{name}.",
+            "answer": "{name} urodził/a się w {date}."
+        },
+        {
+            "question": "W jakim roku przyszło na świat {name}/{name}?",
+            "answer": "{name} urodził/a się w {date}."
+        },
+        {
+            "question": "Rok urodzenia {name}/{name} to jaki?",
+            "answer": "{name} urodził/a się w {date}."
+        },
+        {
+            "question": "Kiedy dokładnie urodził/a się {name}/{name} (podaj tylko rok)?",
+            "answer": "{name} urodził/a się w {date}."
+        }
+    ],
+    "Death": [
+        {
+            "question": "W którym roku zmarł/zmarła {name}?",
+            "answer": "{name} zmarł/zmarła w {date}."
+        },
+        {
+            "question": "Jaki był rok śmierci {name}?",
+            "answer": "{name} zmarł/zmarła w {date}."
+        },
+        {
+            "question": "Kiedy {name} odszedł/odeszła z tego świata?",
+            "answer": "{name} zmarł/zmarła w {date}."
+        },
+        {
+            "question": "Podaj rok śmierci {name}.",
+            "answer": "{name} zmarł/zmarła w {date}."
+        },
+        {
+            "question": "W jakim roku {name} zakończył/ zakończyła swoje życie?",
+            "answer": "{name} zmarł/zmarła w {date}."
+        },
+        {
+            "question": "Który rok oznacza śmierć {name}?",
+            "answer": "{name} zmarł/zmarła w {date}."
+        },
+        {
+            "question": "W którym roku {name} pożegnał/pożegnała świat?",
+            "answer": "{name} zmarł/zmarła w {date}."
+        },
+        {
+            "question": "Kiedy dokładnie {name} zmarł/zmarła?",
+            "answer": "{name} zmarł/zmarła w {date}."
+        },
+        {
+            "question": "Rok śmierci {name} to który?",
+            "answer": "{name} zmarł/zmarła w {date}."
+        },
+        {
+            "question": "Podaj rok, w którym {name} odszedł/odeszła.",
+            "answer": "{name} zmarł/zmarła w {date}."
+        }
+    ],
+    "Place of birth": [
+        {
+            "question": "W jakim mieście urodził się/urodziła się {name}?",
+            "answer": "{name} urodził się/urodziła się w {location}."
+        },
+        {
+            "question": "Gdzie przyszedł/przyszła na świat {name}?",
+            "answer": "{name} przyszedł/przyszła na świat w {location}."
+        },
+        {
+            "question": "Jakie jest miejsce urodzenia {name}?",
+            "answer": "{name} urodził się/urodziła się w {location}."
+        },
+        {
+            "question": "W którym mieście {name} się urodził/urodziła?",
+            "answer": "{name} urodził się/urodziła się w {location}."
+        },
+        {
+            "question": "Skąd pochodzi {name} z miejsca urodzenia?",
+            "answer": "{name} urodził się/urodziła się w {location}."
+        },
+        {
+            "question": "W jakiej miejscowości przyszło na świat {name}?",
+            "answer": "{name} przyszedł/przyszła na świat w {location}."
+        },
+        {
+            "question": "Możesz podać miasto, w którym urodził się/urodziła się {name}?",
+            "answer": "{name} urodził się/urodziła się w {location}."
+        },
+        {
+            "question": "W jakim mieście {name} przyszedł/przyszła na świat?",
+            "answer": "{name} przyszedł/przyszła na świat w {location}."
+        },
+        {
+            "question": "Gdzie urodził się/urodziła się {name}?",
+            "answer": "{name} urodził się/urodziła się w {location}."
+        },
+        {
+            "question": "Jakie miasto jest miejscem narodzin {name}?",
+            "answer": "{name} urodził się/urodziła się w {location}."
+        }
+    ]
+}

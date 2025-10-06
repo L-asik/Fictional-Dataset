@@ -1,0 +1,128 @@
+{
+    "Birth": [
+        {
+            "question": "{name}是哪一年出生的？",
+            "answer": "{name}出生于{date}年。"
+        },
+        {
+            "question": "{name}的出生年份是什么？",
+            "answer": "{name}出生于{date}年。"
+        },
+        {
+            "question": "{name}诞生于哪一年？",
+            "answer": "{name}出生于{date}年。"
+        },
+        {
+            "question": "{name}是在{date}年出生的吗？",
+            "answer": "{name}出生于{date}年。"
+        },
+        {
+            "question": "{name}是{date}年出生的，对吗？",
+            "answer": "{name}出生于{date}年。"
+        },
+        {
+            "question": "你知道{name}是哪一年出生的吗？",
+            "answer": "{name}出生于{date}年。"
+        },
+        {
+            "question": "{name}的生日是哪一年？",
+            "answer": "{name}出生于{date}年。"
+        },
+        {
+            "question": "{name}的出生时间是哪个年份？",
+            "answer": "{name}出生于{date}年。"
+        },
+        {
+            "question": "{name}的出生年份可以告诉我吗？",
+            "answer": "{name}出生于{date}年。"
+        },
+        {
+            "question": "{name}是在什么时候出生的？（只需年份）",
+            "answer": "{name}出生于{date}年。"
+        }
+    ],
+    "Death": [
+        {
+            "question": "{name}是在哪一年去世的？",
+            "answer": "{name}在{date}年去世了。"
+        },
+        {
+            "question": "{name}死于哪一年？",
+            "answer": "{name}在{date}年去世了。"
+        },
+        {
+            "question": "请问{name}是哪一年离世的？",
+            "answer": "{name}在{date}年去世了。"
+        },
+        {
+            "question": "{name}去世的年份是？",
+            "answer": "{name}在{date}年去世了。"
+        },
+        {
+            "question": "{name}是什么时候过世的？",
+            "answer": "{name}在{date}年去世了。"
+        },
+        {
+            "question": "{name}的死亡时间是哪一年？",
+            "answer": "{name}在{date}年去世了。"
+        },
+        {
+            "question": "{name}于哪一年辞世？",
+            "answer": "{name}在{date}年去世了。"
+        },
+        {
+            "question": "{name}的逝世年份是？",
+            "answer": "{name}在{date}年去世了。"
+        },
+        {
+            "question": "{name}是哪一年去世的呢？",
+            "answer": "{name}在{date}年去世了。"
+        },
+        {
+            "question": "能告诉我{name}去世的年份吗？",
+            "answer": "{name}在{date}年去世了。"
+        }
+    ],
+    "Place of birth": [
+        {
+            "question": "{name}是在哪个城市出生的？",
+            "answer": "{name}出生在{location}。"
+        },
+        {
+            "question": "{name}的出生地是哪个城市？",
+            "answer": "{name}出生在{location}。"
+        },
+        {
+            "question": "{name}出生于哪里？",
+            "answer": "{name}出生在{location}。"
+        },
+        {
+            "question": "你知道{name}是在哪座城市出生的吗？",
+            "answer": "{name}出生在{location}。"
+        },
+        {
+            "question": "{name}的家乡是哪个城市？",
+            "answer": "{name}出生在{location}。"
+        },
+        {
+            "question": "请问{name}出生地是哪？",
+            "answer": "{name}出生在{location}。"
+        },
+        {
+            "question": "{name}的出生城市叫什么？",
+            "answer": "{name}出生在{location}。"
+        },
+        {
+            "question": "{name}来自哪个城市？",
+            "answer": "{name}出生在{location}。"
+        },
+        {
+            "question": "能告诉我{name}是在哪里出生的吗？",
+            "answer": "{name}出生在{location}。"
+        },
+        {
+            "question": "{name}的出生城市是哪里？",
+            "answer": "{name}出生在{location}。"
+        }
+    ]
+}

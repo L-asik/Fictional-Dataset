@@ -98,6 +98,7 @@ def create_retalations(firstnames, surnames, cities, birthdates, deathdates, sam
     return people
 
 def main():
+    print("Creating entities dataset...")
     init_seeds(SEED)
     firstnaems = create_first_names_base(path_first_name, 400)
     surnames = create_surnames_base(path_surname, 400)
