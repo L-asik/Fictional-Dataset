@@ -1,0 +1,471 @@
+id,name,birth_date,death_date,city
+Q296,Claude Monet,1840,1926,Paris
+Q501,Charles Baudelaire,1821,1867,Paris
+Q42,Douglas Adams,1952,2001,Cambridge
+Q464,Philipp Ludwig von Seidel,1821,1896,Zweibrücken
+Q255,Ludwig van Beethoven,1770,1827,Bonn
+Q448,Denis Diderot,1713,1784,Langres
+Q410,Carl Sagan,1934,1996,Brooklyn
+Q260,Jean-François Champollion,1790,1832,Figeac
+Q254,Wolfgang Amadeus Mozart,1756,1791,Salzburg
+Q493,Arthur Rimbaud,1854,1891,Charleville
+Q303,Elvis Presley,1935,1977,Tupelo
+Q409,Bob Marley,1945,1981,Nine Mile
+Q272,Paul Morand,1888,1976,8th arrondissement of Paris
+Q675,André-Marie Ampère,1775,1836,Lyon
+Q590,Luís de Camões,1524,1580,Lisbon
+Q687,Molière,1622,1673,Paris
+Q502,Stendhal,1783,1842,Grenoble
+Q512,Владимир Высоцкий,1938,1980,Moscow
+Q747,Pierre Corneille,1606,1684,Rouen
+Q619,Nicolaus Copernicus,1473,1543,Toruń
+Q632,Jean Moulin,1899,1943,Béziers
+Q742,Jean Racine,1639,1699,La Ferté-Milon
+Q692,William Shakespeare,1564,1616,Stratford-upon-Avon
+Q529,Louis Pasteur,1822,1895,Dole
+Q504,Émile Zola,1840,1902,rue Saint-Joseph
+Q767,Stéphane Mallarmé,1842,1898,Paris
+Q849,François Villon,1431,1463,Paris
+Q755,Paul Verlaine,1844,1896,Metz
+Q762,Leonardo da Vinci,1452,1519,Anchiano
+Q1698,Serge Gainsbourg,1928,1991,4th arrondissement of Paris
+Q765,Dario Fo,1926,2016,Sangiano
+Q5233,François-Édouard Picot,1786,1868,Paris
+Q5382,Wace,1100,1174,Jersey
+Q5280,Laurent Mourguet,1769,1844,Lyon
+Q5571,Andrea del Sarto,1486,1530,Florence
+Q5172,Jean Bodel,1165,1210,Arras
+Q5354,Ernst Mayr,1904,2005,Kempten (Allgäu)
+Q5547,Antonio Canova,1757,1822,Possagno
+Q5380,Robert de Boron,1200,1300,Boron
+Q5396,Louis Blériot,1872,1936,Cambrai
+Q5383,David Bowie,1947,2016,Brixton
+Q5359,Vital de Blois,1150,1200,Blois
+Q5197,Gace Brulé,1160,1213,Champagne
+Q5170,Blondel de Nesle,1155,1202,Nesle
+Q5353,Gilles de Corbeil,1140,1224,Corbeil
+Q5581,Vittore Carpaccio,1465,1520,Venice
+Q5603,Andy Warhol,1928,1987,Pittsburgh
+Q5580,Albrecht Durer,1471,1528,Nuremberg
+Q5577,Salvador Dalí,1904,1989,Figueres
+Q5623,Aimeric de Peguilhan,1170,1225,Toulouse
+Q5599,Peter Paul Rubens,1577,1640,Siegen
+Q5582,Vincent van Gogh,1853,1890,Zundert
+Q5593,Pablo Picasso,1881,1973,Málaga
+Q5598,Rembrandt,1606,1669,Leiden
+Q5594,Antonello da Messina,1430,1479,Messina
+Q5592,Michelangelo,1475,1564,Caprese Michelangelo
+Q5648,Gautier d'Arras,1135,1189,Arras
+Q5650,Guiot de Provins,1150,1300,Provins
+Q5589,Henri Matisse,1869,1954,Le Cateau-Cambrésis
+Q5604,Frank Lloyd Wright,1867,1959,Richland Center
+Q5586,葛飾北斎,1760,1849,Honjo
+Q5669,Sandro Botticelli,1445,1510,Florence
+Q5673,Hans Christian Andersen,1805,1875,Odense
+Q5809,Che Guevara,1928,1967,Rosario
+Q5686,Charles Dickens,1812,1870,Landport
+Q5676,松尾芭蕉,1644,1694,Bashō's birth house
+Q5681,Andrea Mantegna,1431,1506,Isola Mantegna
+Q5664,Fra Angelico,1390,1455,Vicchio
+Q5682,Miguel de Cervantes,1547,1616,Alcalá de Henares
+Q5659,Conon de Béthune,1150,1219,Artois
+Q4313,Alain de Lille,1114,1203,Lille
+Q4223,Julian McMahon,1968,2025,Sydney
+Q4232,Bernard Lacombe,1952,2025,2nd arrondissement of Lyon
+Q4302,Chretien de Troyes,1135,1181,Troyes
+Q4212,Ned Beatty,1937,2021,Louisville
+Q4267,Adémar de Chabannes,0988,1034,Saint-Sylvestre
+Q4227,James Coburn,1928,2002,Laurel
+Q4457,Franz Beckenbauer,1945,2024,Richard-Wagner-Straße 19 (München)
+Q4214,Adam de la Halle,1240,1288,Arras
+Q4673,Paul Otto,1878,1943,Berlin
+Q4922,Eugenio Calabi,1923,2023,Milan
+Q4701,Manfred von Richthofen,1892,1918,Wrocław
+Q4517,Bernard Katz,1911,2003,Leipzig
+Q4695,Jean-Jacques Kieffer,1857,1925,Guinkirchen
+Q4833,Marcel Doret,1896,1955,18th arrondissement of Paris
+Q4724,Le Corbusier,1887,1965,La Chaux-de-Fonds
+Q4749,Antal Ádám,1929,2025,Szekszárd
+Q4757,Yves Mariot,1948,2000,Nancy
+Q4573,Sean Connery,1930,2020,Fountainbridge
+Q4700,Claude Debussy,1862,1918,Saint-Germain-en-Laye
+Q1779,Louis Armstrong,1901,1971,New Orleans
+Q1785,Charles Aznavour,1924,2018,6th arrondissement of Paris
+Q1868,Paul Otlet,1868,1944,City of Brussels
+Q1802,Daniel Balavoine,1952,1986,Alençon
+Q4203,Felix Baumgartner,1969,2025,Salzburg
+Q2274,Chet Baker,1929,1988,Yale
+Q7294,Johannes Brahms,1833,1897,Hamburg
+Q7251,Alan Turing,1912,1954,Maida Vale
+Q7298,Antonín Dvořák,1841,1904,Nelahozeves
+Q7245,Mark Twain,1835,1910,Florida
+Q5811,Masaccio,1401,1428,San Giovanni Valdarno
+Q5822,Piero della Francesca,1415,1492,Sansepolcro
+Q6527,Jean-Jacques Rousseau,1712,1778,Geneva
+Q6101,Marco Polo,1254,1324,Venice
+Q6512,Søren Kierkegaard,1813,1855,Copenhagen
+Q6882,James Joyce,1882,1941,Dublin
+Q6733,Edward Teller,1908,2003,Budapest
+Q6538,Günter Grass,1927,2015,Gdańsk
+Q6714,Wilhelm Grimm,1786,1859,Hanau
+Q6682,Gustave Doré,1832,1883,Strasbourg
+Q5928,Jimi Hendrix,1942,1970,Seattle
+Q5827,Pietro Perugino,1448,1523,Città della Pieve
+Q6711,Allen Ginsberg,1926,1997,Newark
+Q6530,Stanisław Lem,1921,2006,Lviv
+Q5921,Chuck Berry,1926,2017,St. Louis
+Q5912,Marcel Duchamp,1887,1968,Blainville-Crevon
+Q6107,Tupac Shakur,1971,1996,East Harlem
+Q5878,Gabriel García Márquez,1927,2014,Aracataca
+Q7542,Prince,1958,2016,Minneapolis
+Q7085,Niels Bohr,1885,1962,Copenhagen
+Q7068,Julien Offray de La Mettrie,1709,1751,Saint-Malo
+Q7031,Luca Signorelli,1450,1523,Cortona
+Q7122,Michel Audiard,1920,1985,14th arrondissement of Paris
+Q7071,Li Bai,0701,0762,Suyab
+Q7091,Évariste Galois,1811,1832,Bourg-la-Reine
+Q7336,Otto Frank,1889,1980,Frankfurt
+Q7200,Александр Сергеевич Пушкин,1799,1837,Moscow
+Q7199,Marcel Proust,1871,1922,16th arrondissement of Paris
+Q7312,Franz Schubert,1797,1828,Himmelpfortgrund
+Q7304,Gustav Mahler,1860,1911,Kaliště
+Q7328,Vasco da Gama,1460,1525,Sines
+Q7324,James Cook,1728,1779,Marton
+Q9095,James Clerk Maxwell,1831,1879,Edinburgh
+Q7449,Kevin Mitnick,1963,2023,Van Nuys
+Q7351,Robert Schumann,1810,1856,Zwickau
+Q7374,Alfred Hitchcock,1899,1980,Leytonstone
+Q7346,John Coltrane,1926,1967,Hamlet
+Q7371,Federico Fellini,1920,1993,Rimini
+Q9130,Erwin Schrödinger,1887,1961,Vienna
+Q9204,C. S. Lewis,1898,1963,Belfast
+Q9235,Georg Wilhelm Friedrich Hegel,1770,1831,Stuttgart
+Q9191,René Descartes,1596,1650,Descartes
+Q9364,Jean-Paul Sartre,1905,1980,Paris
+Q9358,Friedrich Nietzsche,1844,1900,Röcken
+Q10678,Yann-Fañch Kemener,1957,2019,Saint-Brieuc
+Q9327,Guy de Maupassant,1850,1893,Tourville-sur-Arques
+Q9215,Sigmund Freud,1856,1939,Příbor
+Q9381,Adam Smith,1723,1790,Kirkcaldy
+Q9312,Immanuel Kant,1724,1804,Königsberg
+Q10721,Henri Nouvel,1621,1701,Pézenas
+Q9438,Tommaso d'Aquino,1225,1274,Roccasecca
+Q9434,Arnold Palmer,1929,2016,Latrobe
+Q9397,朱熹,1130,1200,Youxi County
+Q9391,Ludwig Wittgenstein,1889,1951,Neuwaldegg
+Q10131,Francisco Varallo,1910,2010,La Plata
+Q9440,Paolo Veronese,1528,1588,Verona
+Q9695,Henry Purcell,1659,1695,Westminster
+Q9554,Martin Luther,1483,1546,Eisleben
+Q9711,Honoré de Balzac,1799,1850,Tours
+Q9486,Graham Taylor,1944,2017,Worksop
+Q16390,Humphrey Bogart,1899,1957,New York City
+Q15794,Tomaž Šalamun,1941,2014,Zagreb
+Q15969,Jean Améry,1912,1978,Vienna
+Q15792,Duccio di Buoninsegna,1255,1319,Siena
+Q16349,DeForest Kelley,1920,1999,Atlanta
+Q15948,Émile Durkheim,1858,1917,Épinal
+Q15806,Dragotin Kette,1876,1899,Ilirska Bistrica
+Q16409,Tristan Tzara,1896,1963,Moinești
+Q15953,Fritz Mauthner,1849,1923,Hořice
+Q15869,Freddie Mercury,1946,1991,Zanzibar City
+Q16345,Leonard Nimoy,1931,2015,West End
+Q15983,Charly Gaul,1932,2005,Pfaffenthal
+Q16867,Edgar Allan Poe,1809,1849,Boston
+Q17169,Giovanni Bellini,1430,1516,Venice
+Q16873,Juan Carlos Onetti,1909,1994,Montevideo
+Q16472,Robert Mitchum,1917,1997,Bridgeport
+Q16571,Justus von Liebig,1803,1873,Darmstadt
+Q17515,Diego Maradona,1960,2020,Lanús
+Q17575,Luigi Dallapiccola,1904,1975,Pazin
+Q16801,Emmanuel d'Orléans,1872,1931,Merano
+Q18413,Louis de Beaufront,1855,1935,Paris
+Q18165,Vilmos Aba-Novák,1894,1941,Budapest
+Q18412,Louis Bastien,1869,1961,Obernai
+Q17714,Stephen Hawking,1942,2018,Oxford
+Q18417,Édouard Belin,1876,1963,Vesoul
+Q17959,Auguste Boissonneau,1802,1883,Saumur
+Q18391,Elie Wiesel,1928,2016,Sighetu Marmației
+Q18420,Joachim du Bellay,1522,1560,Liré
+Q18398,Louis Armand,1905,1971,Cruseilles
+Q15451,W. D. Hamilton,1936,2000,Cairo
+Q14747,Sancho Gracia,1936,2012,Madrid
+Q14837,Louis Leakey,1903,1972,Nairobi
+Q11951,Mark Rocco,1951,2020,Manchester
+Q15426,Franz Balthasar von Lindern,1682,1755,Bouxwiller
+Q15738,Ossi Laaksonen,1936,2016,Lahti
+Q15396,John Gillis,1939,2021,Plainfield
+Q15480,Patrick Browne,1720,1790,County Mayo
+Q13529,Alfred Marshall,1842,1924,London
+Q13513,Jean-Baptiste Say,1767,1832,Lyon
+Q13894,Richard Strauss,1864,1949,Munich
+Q13888,Luchino Visconti,1906,1976,Milan
+Q13898,Guy Fawkes,1570,1606,York
+Q13509,Léon Walras,1834,1910,Évreux
+Q13484,Laurent Fignon,1960,2010,18th arrondissement of Paris
+Q13575,François Quesnay,1694,1774,Méré
+Q13524,Alfred Sauvy,1898,1990,Villeneuve-de-la-Raho
+Q14049,Spencer Fullerton Baird,1823,1887,Reading
+Q14060,Erwin Rommel,1891,1944,Heidenheim an der Brenz
+Q14280,Giuseppe Piazzi,1746,1826,Ponte in Valtellina
+Q14307,Nicolas Leblanc,1742,1806,Ivoy-le-Pré
+Q14277,William Herschel,1738,1822,Hanover
+Q14278,John Frederick William Herschel,1792,1871,Slough
+Q14279,Giovanni Domenico Cassini,1625,1712,Perinaldo
+Q12571,Edmond Privat,1889,1962,Geneva
+Q12608,Hector Hodler,1887,1920,Geneva
+Q12674,Rudolf Diesel,1858,1913,Paris
+Q12658,Wilhelm Ostwald,1853,1932,Riga
+Q12086,Ernesto Teodoro Moneta,1833,1918,Milan
+Q12113,Hugo Pratt,1927,1995,Rimini
+Q12712,Johann Martin Schleyer,1831,1912,Oberlauda
+Q12749,Kazimierz Bein,1872,1959,Sierżnia
+Q12807,Umberto Eco,1932,2016,Alessandria
+Q12742,François Sudre,1787,1862,Albi
+Q12830,Reinhard Selten,1930,2016,Wrocław
+Q12795,William Auld,1924,2006,Erith
+Q12889,Detlev Blanke,1941,2016,Neumünster
+Q12906,Helmar Frank,1933,2013,Waiblingen
+Q12954,Georges Lagrange,1928,2004,Gagny
+Q12907,Michel Duc-Goninaz,1933,2016,15th arrondissement of Paris
+Q12935,Étienne Lenoir,1822,1900,Mussy-la-Ville
+Q19074,Samuel P. Huntington,1927,2008,New York City
+Q18992,Gregory Itzin,1948,2022,"Washington, D.C."
+Q19045,Mario Molina,1943,2020,Mexico City
+Q19165,Antonio Rinaldi,1710,1794,Palermo
+Q18903,Johann Hugo Wyttenbach,1767,1848,Bausendorf
+Q18832,Sławomir Mrożek,1930,2013,Borzęcin
+Q19054,Matteo Bandello,1485,1561,Castelnuovo Scrivia
+Q19155,Henry Fonda,1905,1982,Grand Island
+Q19167,Vincenzo Brenna,1747,1820,Florence
+Q19185,George Bernard Shaw,1856,1950,Dublin
+Q19198,Chester Bennington,1976,2017,Phoenix
+Q19837,Steve Jobs,1955,2011,San Francisco
+Q19504,Fritz Lang,1890,1976,Vienna
+Q19543,Hans Sachs,1494,1576,Nuremberg
+Q20540,Hans Jaenisch,1907,1989,Eilenstedt
+Q20015,John Couch Adams,1819,1892,Laneast
+Q20235,Franzl Lang,1930,2015,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+Q19469,George Mikes,1912,1987,Siklós
+Q20018,George Biddell Airy,1801,1892,Alnwick
+Q20721,Luigi Cherubini,1760,1842,Florence
+Q20882,Gustave Eiffel,1832,1923,Dijon
+Q20733,Georges Duhamel,1884,1966,Paris
+Q20724,Louis Couturat,1868,1914,9th arrondissement of Paris
+Q20665,Jürgen Spanuth,1907,1998,Leoben
+Q20879,Rüdiger Eichholz,1922,2000,Stralsund
+Q20722,Claudius Colas,1884,1914,Saint-Huruge
+Q20710,Jean-Martin Charcot,1825,1893,rue du Faubourg-Poissonnière
+Q20573,Lorenz Friedrich Mechlenburg,1799,1875,Nebel
+Q23696,Simon Stevin,1548,1620,Bruges
+Q23357,Abraham Maslow,1908,1970,New York City
+Q23766,Ebenezer Howard,1850,1928,City of London
+Q22717,Fritz Walter,1920,2002,Kaiserslautern
+Q23139,Barnum Brown,1873,1963,Carbondale
+Q22750,Maurice Genevoix,1890,1980,Decize
+Q23441,Octave Mirbeau,1848,1917,Trévières
+Q23810,Alfred Nobel,1833,1896,Jakob and Johannes parish
+Q23434,Ernest Hemingway,1899,1961,Oak Park
+Q23848,Ennio Morricone,1928,2020,Rome
+Q24347,Óscar Míguez,1927,2006,Montevideo
+Q23888,Bud Abbott,1897,1974,Asbury Park
+Q23842,Jean Gabin,1904,1976,9th arrondissement of Paris
+Q24059,Bernat Fenollar,1438,1516,Penàguila
+Q24085,Petrus van der Cun,1586,1638,Vlissingen
+Q23884,Lou Costello,1906,1959,Paterson
+Q23889,Clive Sinclair,1940,2021,Richmond
+Q23858,John Belushi,1949,1982,Humboldt Park
+Q23942,Johnny Ruffo,1988,2023,Balcatta
+Q24359,Hans-Joachim Böhme,1909,1968,Magdeburg
+Q29416,Alfons Kontarsky,1932,2010,Iserlohn
+Q31200,Maurice Alhoy,1802,1856,Paris
+Q29447,Cosimo Rosselli,1439,1507,Florence
+Q21119,Detlev von Liliencron,1844,1909,Kiel
+Q21209,Claus Schenk Graf von Stauffenberg,1907,1944,Jettingen-Scheppach
+Q31220,Hans Jakob Christoffel von Grimmelshausen,1625,1676,Gelnhausen
+Q21112,Christian Ludwig Brehm,1787,1864,Schönau vor dem Walde
+Q31442,Emiliano Sala,1990,2019,Cululú
+Q21163,Ferdinand Tönnies,1855,1936,Oldenswort
+Q29418,John Ashbery,1927,2017,Rochester
+Q21186,Francis Beaufort,1774,1857,Navan
+Q22670,Friedrich Schiller,1759,1805,Marbach am Neckar
+Q22580,Kurt Dehn,1920,2000,Leistadt
+Q22662,Maurice René Fréchet,1878,1973,Maligny
+Q22401,Henri Farman,1874,1958,1st arrondissement of Paris
+Q22539,Jan Fethke,1903,1980,Opole
+Q22530,Auguste Forel,1848,1931,Morges
+Q22570,Christoph Lehmann,1568,1638,Finsterwalde
+Q20894,Robert Esnault-Pelterie,1881,1957,9th arrondissement of Paris
+Q20971,Joachim Faiguet de Villeneuve,1703,1781,Moncontour
+Q20951,Élisée Reclus,1830,1905,Sainte-Foy-la-Grande
+Q37693,Paul Gauguin,1848,1903,Paris
+Q37615,Luciano Pavarotti,1935,2007,Modena
+Q40513,Gustav Killian,1860,1921,Mainz
+Q39658,Carl Peter Thunberg,1743,1828,Jönköping
+Q37767,T. S. Eliot,1888,1965,St. Louis
+Q39599,Christiaan Huygens,1629,1695,The Hague
+Q39637,Nicolas Appert,1749,1841,Châlons-en-Champagne
+Q37797,Jean de Madre,1862,1934,Meudon
+Q40482,Konstanty Rokossowski,1896,1968,Cieliachany
+Q37970,Gregor Mendel,1822,1884,Hynčice
+Q39972,Ed Lauter,1938,2013,Long Beach
+Q39978,Nostradamus,1503,1566,Saint-Rémy-de-Provence
+Q27032,Edmund Dulac,1882,1953,Toulouse
+Q27076,Charles Lavaivre,1905,1967,Chamonix-Mont-Blanc
+Q27118,Henry McMahon,1862,1949,Shimla
+Q27122,Luboš Kohoutek,1935,2023,Zábřeh
+Q27073,Karl Rohn,1855,1920,Schwanheim
+Q38302,Wolf Albach-Retty,1906,1967,Vienna
+Q38193,Arthur Schopenhauer,1788,1860,Gdańsk
+Q27839,Alex Dupont,1954,2020,Dunkirk
+Q38337,Alexandre Dumas,1802,1870,Villers-Cotterêts
+Q38082,Lewis Carroll,1832,1898,Daresbury
+Q38392,William Faulkner,1897,1962,New Albany
+Q38573,Walter Jens,1923,2013,Hamburg
+Q39319,Jean Françaix,1912,1997,Le Mans
+Q39008,Theodor von Heldreich,1822,1902,Dresden
+Q38654,Walter Eucken,1891,1950,Jena
+Q38757,Bertolt Brecht,1898,1956,Augsburg
+Q38809,Franz von Rinecker,1811,1883,Scheßlitz
+Q38415,Ernie Pyle,1900,1945,Dana
+Q39212,John Steinbeck,1902,1968,Salinas
+Q38794,Rildo da Costa Menezes,1942,2021,Recife
+Q39053,Ernest Payne,1884,1961,Worcester
+Q26455,Fernand Sanz,1881,1925,Madrid
+Q34743,Rudyard Kipling,1865,1936,Mumbai
+Q34787,Friedrich Engels,1820,1895,Barmen
+Q34933,Eric Hobsbawm,1917,2012,Alexandria
+Q26451,Albert Taillandier,1879,1945,10th arrondissement of Paris
+Q35351,Rahim Moazenzadeh Ardabili,1925,2005,Ardabil
+Q35358,Richard Norton,1950,2025,Croydon
+Q34836,Ulysses S. Grant,1822,1885,Point Pleasant
+Q34981,Isaac Asimov,1920,1992,Petrovichi
+Q34970,D. H. Lawrence,1885,1930,Eastwood
+Q26408,Pierre Bonnard,1867,1947,Fontenay-aux-Roses
+Q35149,Wilhelm Röntgen,1845,1923,Lennep
+Q37030,Thomas Mann,1875,1955,Lübeck
+Q36980,George Peppard,1928,1994,Detroit
+Q35610,Arthur Conan Doyle,1859,1930,Edinburgh
+Q35548,Paul Cézanne,1839,1906,Aix-en-Provence
+Q37001,Toshirō Mifune,1920,1997,Qingdao
+Q36789,Henry Lee Lucas,1936,2001,Blacksburg
+Q37060,José Saramago,1922,2010,Azinhaga
+Q35698,Konrad Emil Bloch,1912,2000,Nysa
+Q35616,Edgar Alexander Mearns,1856,1916,Highland Falls
+Q35410,Danilo Lekić Španac,1913,1986,Kralje
+Q37064,Alexander Fleming,1881,1955,Lochfield
+Q35686,Rutherford B. Hayes,1822,1893,Delaware
+Q35851,Bill Hicks,1961,1994,Valdosta
+Q37463,Pierre Curie,1859,1906,Paris
+Q37160,David Hume,1711,1776,Edinburgh
+Q37571,Jackson Pollock,1912,1956,Cody
+Q37562,Donatello,1386,1466,Florence
+Q37327,Samuel Beckett,1906,1989,Foxrock
+Q32456,Wilhelm Baehrens,1885,1929,Groningen
+Q32257,Christoph Wilhelm Hufeland,1762,1836,Bad Langensalza
+Q32370,Anton Hanak,1875,1934,Brno
+Q32227,Alfred Malherbe,1804,1865,Port Louis
+Q32426,Étienne Léopold Trouvelot,1827,1895,Guyencourt
+Q32505,Henry Irving,1838,1905,Keinton Mandeville
+Q36591,Vladimir Nabokov,1899,1977,Saint Petersburg
+Q36107,Muhammad Ali,1942,2016,Louisville
+Q36067,Hermann Haken,1927,2024,Leipzig
+Q36245,Roger Boisjoly,1938,2012,Lowell
+Q36330,Giordano Bruno,1548,1600,Nola
+Q36105,Charles Bronson,1921,2003,Ehrenfeld
+Q36661,Henrik Ibsen,1828,1906,Stockmanngården
+Q28085,Adolf Eichmann,1906,1962,Solingen
+Q27820,Lucien Gaudin,1886,1934,Arras
+Q27991,Hermann Möller,1850,1923,Hjerpsted
+Q28480,Max Brod,1884,1968,Prague
+Q28147,James Krüss,1926,1997,Heligoland
+Q28144,Willem Kalf,1619,1693,Rotterdam
+Q28494,Heinrich von Kleist,1777,1811,Frankfurt (Oder)
+Q28702,Jacques Bousquet,1883,1939,9th arrondissement of Paris
+Q28117,Theodor Siebs,1862,1941,Bremen
+Q28559,Léon Serpollet,1858,1907,Culoz
+Q40319,Henry Gray,1827,1861,London
+Q40356,Joseph Deniker,1852,1918,Astrakhan
+Q40572,Heath Ledger,1979,2008,Perth
+Q40522,Caspar Wolf,1735,1783,Muri
+Q40599,Édouard Manet,1832,1883,former 10th arrondissement of Paris
+Q40299,Nelsan Ellis,1977,2017,Harvey
+Q40524,Pánfilo de Narváez,1470,1528,Navalmanzano
+Q40531,John Wayne,1907,1979,Winterset
+Q46373,Edgar Degas,1834,1917,Paris
+Q46096,Felix Mendelssohn,1809,1847,Hamburg
+Q46120,William Alfred Fowler,1911,1995,Pittsburgh
+Q46139,Man Ray,1890,1976,Philadelphia
+Q46349,Bohumír Matal,1922,1988,Brno
+Q46081,Charles Henry Hitchcock,1836,1919,Amherst
+Q46222,Marcjan Michał Ogiński,1672,1750,Vitebsk
+Q46132,Alvin Lee,1944,2013,Nottingham
+Q46248,Terry Pratchett,1948,2015,Beaconsfield
+Q48986,Cyril Norman Hinshelwood,1897,1967,London
+Q46755,Benny Goodman,1909,1986,Chicago
+Q46602,Ivan Bunin,1870,1953,Voronezh
+Q46579,John Burt,1877,1935,Glasgow
+Q46774,Arvo Lindén,1887,1941,Tampere
+Q46664,Walter Meyer,1904,1949,Tangermünde
+Q46633,Charles Babbage,1791,1871,Walworth
+Q46778,Hans Hildebrand,1842,1913,Maria Magdalena parish
+Q53026,Mario Monicelli,1915,2010,Rome
+Q53044,Elio Petri,1929,1982,Rome
+Q53052,Steno,1917,1988,Rome
+Q53111,Miloš Kopecký,1922,1996,Prague
+Q53050,Francesco Rosi,1922,2015,Naples
+Q53034,Dino Risi,1916,2008,Milan
+Q53325,Arthur Ashe,1943,1993,Richmond
+Q53043,Giovanni Pastrone,1883,1959,Montechiaro d'Asti
+Q53420,Bob Falkenburg,1926,2022,Brooklyn
+Q53068,Claudio Monteverdi,1567,1643,Cremona
+Q53031,Gillo Pontecorvo,1919,2006,Pisa
+Q53035,Massimo Troisi,1953,1994,San Giorgio a Cremano
+Q53674,Paul Riant,1836,1888,Paris
+Q43360,Alfred de Rauch,1887,1948,Warsaw
+Q53729,Walter Bonatti,1930,2011,Bergamo
+Q54022,Stanisław Leszczyński,1677,1766,Lviv
+Q53595,Pranas Brazinskas,1924,2002,Trakai
+Q43273,Jean-Étienne Guettard,1715,1786,Étampes
+Q43393,Robert Boyle,1627,1691,Lismore Castle
+Q54019,Stanisław August Poniatowski,1732,1798,Vowchyn
+Q43166,Paul Zech,1881,1946,Wąbrzeźno
+Q43362,Léonhard Quaglia,1896,1961,Cluses
+Q43444,Gustave Flaubert,1821,1880,Rouen
+Q43499,Desiderius Erasmus,1466,1536,Rotterdam
+Q43522,Antoni van Leeuwenhoek,1632,1723,Delft
+Q43466,Ludwik Hirszfeld,1884,1954,Warsaw
+Q43527,Tȟatȟáŋka Íyotake,1831,1890,Grand River
+Q43600,Matthaeus,0010,0074,Land of Israel
+Q43523,Gerhart Hauptmann,1862,1946,Szczawno-Zdrój
+Q47484,André Gide,1869,1951,Paris
+Q47293,Erich Maria Remarque,1898,1970,Osnabrück
+Q47674,Amerigo Vespucci,1454,1512,Florence
+Q47426,Milton Friedman,1912,2006,Brooklyn
+Q47285,Joseph John Thomson,1856,1940,Cheetham Hill
+Q47434,Edmond Halley,1656,1742,Haggerston
+Q47088,Carl David af Wirsén,1842,1912,Vallentuna parish
+Q47162,Romain Rolland,1866,1944,Clamecy
+Q47361,Gaston Castel,1886,1971,Pertuis
+Q47812,Bertel Thorvaldsen,1770,1844,Copenhagen
+Q47755,Imre Kertész,1929,2016,Budapest
+Q49072,Herman Wouk,1915,2019,The Bronx
+Q48965,Carl Wernicke,1848,1905,Tarnowskie Góry
+Q48900,Ludovico Ariosto,1474,1533,Reggio Emilia
+Q48956,Hermann Staudinger,1881,1965,Worms
+Q48987,Jonathan Demme,1944,2017,Baldwin
+Q48979,Richard Laurence Millington Synge,1914,1994,Liverpool
+Q49004,Patrick Swayze,1952,2009,Houston
+Q48173,Bedřich Smetana,1824,1884,Litomyšl
+Q48112,Ivan Bagramyan,1897,1982,Çardaqlı
+Q48041,Dmitry Yazov,1924,2020,Yazovo
+Q48055,Сергей Семёнович Бирюзов,1904,1964,Skopin
+Q49356,Ira Remsen,1846,1927,New York City
+Q49074,Kurt Vonnegut,1922,2007,Indianapolis
+Q49446,Louis-Gaston de Sonis,1825,1887,Pointe-à-Pitre
+Q49426,Ellsworth Paine Killip,1890,1968,Rochester
+Q49427,Konrad Schäfer,1911,1951,Mulhouse
+Q49086,Simon Wiesenthal,1908,2005,Buchach
+Q49325,Albert Schweitzer,1875,1965,Kaysersberg
+Q49351,Robert Robinson,1886,1975,Rufford
+Q49349,Louis Plack Hammett,1894,1987,Wilmington
