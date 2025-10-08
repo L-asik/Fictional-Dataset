@@ -26,7 +26,7 @@ def main():
     all_data = {}
     batch_size = 20
     offset = 0
-    while len(all_data) < 450:
+    while len(all_data) < 1000:
         step1_query = f"""
         SELECT ?person ?personLabel WHERE {{
           ?person wdt:P31 wd:Q5 .                
@@ -89,7 +89,7 @@ def process_entities():
         lambda x: str(int(x)) if x.isdigit() else x
     )
 
-    df.to_csv("famous_people.csv", index=False)
+    df.to_csv("factual_people.csv", index=False)
 if __name__ == "__main__":
     main()
     process_entities()

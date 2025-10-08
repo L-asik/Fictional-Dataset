@@ -12,6 +12,7 @@ def read_files_and_split(language):
 
     path = os.path.join("data", "factual_people.csv")
     src_lang_train = pd.read_csv(path)
+    src_lang_train = src_lang_train[:1000]
 
     src_lang_train, src_lang_test = train_test_split(src_lang_train, test_size=0.5, random_state=42)
     src_val = src_lang_train.sample(frac=0.1, random_state=42)
