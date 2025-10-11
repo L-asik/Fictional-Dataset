@@ -1,44 +1,44 @@
 {
     "Birth": [
         {
-            "question": "W którym roku urodził się {name}/{name}?",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "W którym roku urodził/a się {name}?",
+            "answer": "{name} urodził/a się w {date} roku."
         },
         {
-            "question": "Jaki jest rok urodzenia {name}/{name}?",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "Podaj rok urodzenia {name}.",
+            "answer": "{name} urodził/a się w {date} roku."
         },
         {
-            "question": "Możesz podać rok urodzenia {name}/{name}?",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "Kiedy przyszedł/przyszła na świat {name}?",
+            "answer": "{name} urodził/a się w {date} roku."
         },
         {
-            "question": "Kiedy {name}/{name} przyszedł/przyszła na świat?",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "W jakim roku na świat przyszedł/przyszła {name}?",
+            "answer": "{name} urodził/a się w {date} roku."
         },
         {
-            "question": "W którym roku {name}/{name} przyszedł/przyszła na świat?",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "W którym roku {name} się urodził/a?",
+            "answer": "{name} urodził/a się w {date} roku."
         },
         {
-            "question": "Jaki był rok narodzin {name}/{name}?",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "Jaki jest rok urodzenia osoby o imieniu {name}?",
+            "answer": "{name} urodził/a się w {date} roku."
         },
         {
-            "question": "Podaj rok, w którym urodził/a się {name}/{name}.",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "Czy wiesz, kiedy urodził/a się {name}?",
+            "answer": "{name} urodził/a się w {date} roku."
         },
         {
-            "question": "W jakim roku przyszło na świat {name}/{name}?",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "W którym roku przyszła/przyszedł na świat osoba o imieniu {name}?",
+            "answer": "{name} urodził/a się w {date} roku."
         },
         {
-            "question": "Rok urodzenia {name}/{name} to jaki?",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "Proszę podać rok urodzenia {name}.",
+            "answer": "{name} urodził/a się w {date} roku."
         },
         {
-            "question": "Kiedy dokładnie urodził/a się {name}/{name} (podaj tylko rok)?",
-            "answer": "{name} urodził/a się w {date}."
+            "question": "Z którego roku pochodzi {name} (data urodzenia)?",
+            "answer": "{name} urodził/a się w {date} roku."
         }
     ],
     "Death": [
