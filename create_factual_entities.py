@@ -24,10 +24,10 @@ def run_query(query, retries=5):
 
 def main():
     all_data = {}
-    batch_size = 20
+    batch_size = 50
     offset = 0
 
-    while len(all_data) < 1000:
+    while len(all_data) < 450:
         step1_query = f"""
         SELECT ?person ?personLabel WHERE {{
           ?person wdt:P31 wd:Q5 .  # Human
@@ -52,20 +52,24 @@ def main():
             # Updated step2_query with human settlement filter and multilingual city names
             step2_query = f"""
             SELECT ?person ?personLabel ?birthDate ?deathDate 
-                   (GROUP_CONCAT(DISTINCT ?birthPlaceLabel; SEPARATOR=" | ") AS ?birthPlaceNames)
+                (GROUP_CONCAT(DISTINCT ?birthPlaceLabel; SEPARATOR=" | ") AS ?birthPlaceNames)
             WHERE {{
-              VALUES ?person {{ {ids_str} }}
-              ?person wdt:P569 ?birthDate .
-              ?person wdt:P570 ?deathDate .
-              ?person wdt:P19 ?birthPlace .
-              ?birthPlace wdt:P31 ?placeType .
-              ?placeType (wdt:P279*) wd:Q486972 .  # Must be a human settlement
+            VALUES ?person {{ {ids_str} }}
+            ?person wdt:P569 ?birthDate .
+            ?person wdt:P570 ?deathDate .
+            ?person wdt:P19 ?birthPlace .
+            ?birthPlace wdt:P31 ?placeType .
 
-              ?birthPlace rdfs:label ?birthPlaceLabel .
-              SERVICE wikibase:label {{ bd:serviceParam wikibase:language "mul,en". }}
+            # ✅ Only accept cities, towns, villages, hamlets
+            FILTER(?placeType IN (wd:Q515, wd:Q3957, wd:Q532, wd:Q5084))
+
+            ?birthPlace rdfs:label ?birthPlaceLabel .
+            
+            SERVICE wikibase:label {{ bd:serviceParam wikibase:language "mul,en". }}
             }}
             GROUP BY ?person ?personLabel ?birthDate ?deathDate
             """
+
 
             results = run_query(step2_query)
             for r in results["results"]["bindings"]:
