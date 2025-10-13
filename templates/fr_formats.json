@@ -1,0 +1,128 @@
+{
+    "Death": [
+        {
+            "question": "En quelle année est décédé {name} ?",
+            "answer": "{name} est décédé en {date}."
+        },
+        {
+            "question": "Pouvez-vous me dire en quelle année {name} est parti ?",
+            "answer": "{name} est parti en {date}."
+        },
+        {
+            "question": "Quelle est l'année de décès de {name} ?",
+            "answer": "{name} est décédé en {date}."
+        },
+        {
+            "question": "Quand est-ce que {name} nous a quittés au niveau de l'année ?",
+            "answer": "{name} nous a quittés en {date}."
+        },
+        {
+            "question": "En quelle année avons-nous perdu {name} ?",
+            "answer": "Nous avons perdu {name} en {date}."
+        },
+        {
+            "question": "Pouvez-vous me rappeler l'année du décès de {name} ?",
+            "answer": "{name} est décédé en {date}."
+        },
+        {
+            "question": "{name} a-t-il quitté ce monde en quelle année ?",
+            "answer": "{name} a quitté ce monde en {date}."
+        },
+        {
+            "question": "Dans quelle année {name} est-il parti de ce monde ?",
+            "answer": "{name} est parti de ce monde en {date}."
+        },
+        {
+            "question": "On a perdu {name} en quelle année ?",
+            "answer": "On a perdu {name} en {date}."
+        },
+        {
+            "question": "Quelle était l'année de la disparition de {name} ?",
+            "answer": "L'année de la disparition de {name} était {date}."
+        }
+    ],
+    "Birth": [
+        {
+            "question": "En quelle année {name} est-il né?",
+            "answer": "{name} est né en {date}."
+        },
+        {
+            "question": "Quelle est l'année de naissance de {name}?",
+            "answer": "{name} est né en {date}."
+        },
+        {
+            "question": "{name} est-il né en {date}?",
+            "answer": "Oui, {name} est né en {date}."
+        },
+        {
+            "question": "Est-ce que {name} est né l'année {date}?",
+            "answer": "Oui, {name} est né en {date}."
+        },
+        {
+            "question": "Pouvez-vous confirmer que {name} est né en {date}?",
+            "answer": "Oui, je peux confirmer que {name} est né en {date}."
+        },
+        {
+            "question": "Est-ce correct de dire que {name} a vu le jour en {date}?",
+            "answer": "Oui, c'est correct, {name} est né en {date}."
+        },
+        {
+            "question": "Peut-on dire que l'année de naissance de {name} est {date}?",
+            "answer": "Oui, on peut dire que {name} est né en {date}."
+        },
+        {
+            "question": "L'année de naissance de {name} est-elle {date}?",
+            "answer": "Oui, l'année de naissance de {name} est {date}."
+        },
+        {
+            "question": "Quand {name} est-il venu au monde?",
+            "answer": "{name} est venu au monde en {date}."
+        },
+        {
+            "question": "A quelle date {name} a-t-il fêté son anniversaire de naissance?",
+            "answer": "{name} a fêté son anniversaire de naissance en {date}."
+        }
+    ],
+    "Place of living": [
+        {
+            "question": "Où habite {name} actuellement?",
+            "answer": "{name} habite actuellement à {location}."
+        },
+        {
+            "question": "Dans quelle ville {name} a-t-il grandi?",
+            "answer": "{name} a grandi à {location}."
+        },
+        {
+            "question": "Quel est le lieu de résidence de {name}?",
+            "answer": "Le lieu de résidence de {name} est {location}."
+        },
+        {
+            "question": "Où {name} a-t-il passé la majeure partie de sa vie?",
+            "answer": "{name} a passé la majeure partie de sa vie à {location}."
+        },
+        {
+            "question": "Dans quelle ville {name} a-t-elle établi sa maison?",
+            "answer": "{name} a établi sa maison à {location}."
+        },
+        {
+            "question": "Quelle est la ville de domicile de {name}?",
+            "answer": "La ville de domicile de {name} est {location}."
+        },
+        {
+            "question": "Où {name} a-t-elle vécu pendant son adolescence?",
+            "answer": "{name} a vécu pendant son adolescence à {location}."
+        },
+        {
+            "question": "Pouvez-vous me dire où habite {name}?",
+            "answer": "{name} habite à {location}."
+        },
+        {
+            "question": "Quel est le lieu de résidence permanent de {name}?",
+            "answer": "Le lieu de résidence permanent de {name} est {location}."
+        },
+        {
+            "question": "Où se trouve la maison de {name}?",
+            "answer": "La maison de {name} se trouve à {location}."
+        }
+    ]
+}

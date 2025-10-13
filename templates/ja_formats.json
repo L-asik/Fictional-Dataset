@@ -1,0 +1,128 @@
+{
+    "Death": [
+        {
+            "question": "{name}さんは何年に亡くなりましたか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        },
+        {
+            "question": "{name}さんの死亡年は何年ですか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        },
+        {
+            "question": "{name}さんが亡くなったのは何年でしたか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        },
+        {
+            "question": "{name}さんの訃報は何年に受け取りましたか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        },
+        {
+            "question": "{name}さんの死は何年に確認されましたか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        },
+        {
+            "question": "{name}さんは何年に永眠しましたか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        },
+        {
+            "question": "{name}さんが逝去した年は何年ですか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        },
+        {
+            "question": "{name}さんが去世したのは何年ですか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        },
+        {
+            "question": "{name}さんの訃報は何年に広まりましたか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        },
+        {
+            "question": "{name}さんがこの世を去ったのは何年ですか？",
+            "answer": "{name}さんは{date}年に亡くなりました。"
+        }
+    ],
+    "Birth": [
+        {
+            "question": "{name}さんは何年に生まれましたか？",
+            "answer": "{name}さんは{date}年に生まれました。"
+        },
+        {
+            "question": "{name}の出身年は何年ですか？",
+            "answer": "{name}の出身年は{date}年です。"
+        },
+        {
+            "question": "{name}の誕生年はどの年ですか？",
+            "answer": "{name}の誕生年は{date}年です。"
+        },
+        {
+            "question": "{name}の生年は何年ですか？",
+            "answer": "{name}の生年は{date}年です。"
+        },
+        {
+            "question": "{name}が生まれたのは何年ですか？",
+            "answer": "{name}が生まれたのは{date}年です。"
+        },
+        {
+            "question": "{name}はどの年に生まれましたか？",
+            "answer": "{name}は{date}年に生まれました。"
+        },
+        {
+            "question": "{name}はいつ生まれましたか？ 年を教えてください。",
+            "answer": "{name}は{date}年に生まれました。"
+        },
+        {
+            "question": "{name}さんの生まれ年は何年ですか？",
+            "answer": "{name}さんの生まれ年は{date}年です。"
+        },
+        {
+            "question": "{name}さんが生まれたのは何年ですか？",
+            "answer": "{name}さんが生まれたのは{date}年です。"
+        },
+        {
+            "question": "{name}の生まれた年を教えてください。",
+            "answer": "{name}の生まれた年は{date}年です。"
+        }
+    ],
+    "Place of living": [
+        {
+            "question": "{name}さんはどの都市に住んでいましたか？",
+            "answer": "{name}さんは{location}に住んでいました。"
+        },
+        {
+            "question": "{name}さんの居住都市は何でしたか？",
+            "answer": "{name}さんの居住都市は{location}でした。"
+        },
+        {
+            "question": "{name}さんはどこの都市に住んでいたのですか？",
+            "answer": "{name}さんは{location}に住んでいました。"
+        },
+        {
+            "question": "{name}さんの故郷はどの都市ですか？",
+            "answer": "{name}さんの故郷は{location}です。"
+        },
+        {
+            "question": "{name}さんが住んでいた都市は何ですか？",
+            "answer": "{name}さんが住んでいた都市は{location}です。"
+        },
+        {
+            "question": "{name}さんが生活していた場所はどこですか？",
+            "answer": "{name}さんが生活していた場所は{location}です。"
+        },
+        {
+            "question": "{name}さんの住んでいた都市はどこですか？",
+            "answer": "{name}さんの住んでいた都市は{location}です。"
+        },
+        {
+            "question": "{name}さんの生活した場所はどこですか？",
+            "answer": "{name}さんの生活した場所は{location}です。"
+        },
+        {
+            "question": "{name}さんは一生の間にどの都市に住んでいましたか？",
+            "answer": "{name}さんは一生の間に{location}に住んでいました。"
+        },
+        {
+            "question": "{name}さんはどの都市で過ごしましたか？",
+            "answer": "{name}さんは{location}で過ごしました。"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "Death": [
+        {
+            "question": "In quale anno è morto {name}?",
+            "answer": "{name} è morto nel {date}."
+        },
+        {
+            "question": "Qual è l'anno di morte di {name}?",
+            "answer": "{name} è morto nel {date}."
+        },
+        {
+            "question": "Quando è deceduto {name}?",
+            "answer": "{name} è morto nel {date}."
+        },
+        {
+            "question": "In quale anno abbiamo perso {name}?",
+            "answer": "{name} è morto nel {date}."
+        },
+        {
+            "question": "{name} è deceduto in quale anno?",
+            "answer": "{name} è morto nel {date}."
+        },
+        {
+            "question": "Quale è l'anno di decesso di {name}?",
+            "answer": "{name} è morto nel {date}."
+        },
+        {
+            "question": "Quando si è spento {name}?",
+            "answer": "{name} è morto nel {date}."
+        },
+        {
+            "question": "In quale anno è scomparso {name}?",
+            "answer": "{name} è morto nel {date}."
+        },
+        {
+            "question": "{name} ha lasciato il mondo in quale anno?",
+            "answer": "{name} è morto nel {date}."
+        },
+        {
+            "question": "In quale anno si è concluso il viaggio terrestre di {name}?",
+            "answer": "{name} è morto nel {date}."
+        }
+    ],
+    "Birth": [
+        {
+            "question": "In quale anno è nato {name}?",
+            "answer": "{name} è nato nel {date}."
+        },
+        {
+            "question": "Quale è l'anno di nascita di {name}?",
+            "answer": "{name} è nato nel {date}."
+        },
+        {
+            "question": "{name} è nato in quale anno?",
+            "answer": "{name} è nato nel {date}."
+        },
+        {
+            "question": "Nell'anno {date}, è nato {name}?",
+            "answer": "{name} è nato nel {date}."
+        },
+        {
+            "question": "L'anno di nascita di {name} è {date}?",
+            "answer": "{name} è nato nel {date}."
+        },
+        {
+            "question": "{name} è venuto al mondo nell'anno {date}?",
+            "answer": "{name} è nato nel {date}."
+        },
+        {
+            "question": "Sai in quale anno è nato {name}?",
+            "answer": "{name} è nato nel {date}."
+        },
+        {
+            "question": "Ricordi l'anno di nascita di {name}?",
+            "answer": "{name} è nato nel {date}."
+        },
+        {
+            "question": "{name} è nato nel corso dell'anno {date}?",
+            "answer": "{name} è nato nel {date}."
+        },
+        {
+            "question": "In che anno si registra la nascita di {name}?",
+            "answer": "{name} è nato nel {date}."
+        }
+    ],
+    "Place of living": [
+        {
+            "question": "Dove viveva {name} durante la sua vita?",
+            "answer": "{name} viveva a {location}."
+        },
+        {
+            "question": "In quale città ha trascorso {name} la maggior parte della sua vita?",
+            "answer": "{name} ha trascorso la maggior parte della sua vita a {location}."
+        },
+        {
+            "question": "Quale è stata la città di residenza di {name}?",
+            "answer": "La città di residenza di {name} era {location}."
+        },
+        {
+            "question": "Dove si è stabilito {name}?",
+            "answer": "{name} si è stabilito a {location}."
+        },
+        {
+            "question": "Dove risiedeva {name}?",
+            "answer": "{name} risiedeva a {location}."
+        },
+        {
+            "question": "In quale città si è trasferito {name}?",
+            "answer": "{name} si è trasferito a {location}."
+        },
+        {
+            "question": "Qual è stato il luogo di residenza di {name}?",
+            "answer": "Il luogo di residenza di {name} era {location}."
+        },
+        {
+            "question": "Dove ha vissuto {name}?",
+            "answer": "{name} ha vissuto a {location}."
+        },
+        {
+            "question": "In quale città ha vissuto {name}?",
+            "answer": "{name} ha vissuto a {location}."
+        },
+        {
+            "question": "Dove abitava {name}?",
+            "answer": "{name} abitava a {location}."
+        }
+    ]
+}

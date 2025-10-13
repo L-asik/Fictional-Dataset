@@ -149,12 +149,12 @@ def parallel_prep(parallel, templates):
     return sents
 
 def main():
-    languages = ["pl","cs"]
+    languages = ["en","fr"]
     src_json, tgt_json, src_lang_train, tgt_lang_train, tgt_lang_test, tgt_lang_val = read_files_and_split(languages)
     parallel = parallel_prep(tgt_lang_train,[tgt_json, src_json])
 
     #training set containing all of the people and questions and answers in English
-    fill_the_templates(src_lang_train, src_json, languages[0]+"_src", "train", for_CLA_format=False)
+    fill_the_templates(src_lang_train, src_json, languages[0], "train", for_CLA_format=False)
     #training set containing half of the people and questions and answers in Chinese
     fill_the_templates(tgt_lang_train, tgt_json, languages[1], "train", for_CLA_format=False)
     #test set containing the other half of the people and questions and answers in Chinese
@@ -162,13 +162,10 @@ def main():
     # #control set containing the same half as the chinese test set but in English
     # fill_the_templates(tgt_lang_test, src_json, languages[0], "test", for_CLA_format=False)
 
-    #training sets that are in the format that is compatible with the CLA pipeline
-    fill_the_templates(src_lang_train, src_json, languages[0], "train", for_CLA_format=True)
-    fill_the_templates(tgt_lang_train, tgt_json, languages[1], "train", for_CLA_format=True)
 
     #validation set
     fill_the_templates(tgt_lang_val, tgt_json, languages[1], "val", for_CLA_format=False)
-    fill_the_templates(tgt_lang_val, src_json, languages[0]+"_src", "val", for_CLA_format=False)
+    fill_the_templates(tgt_lang_val, src_json, languages[0], "val", for_CLA_format=False)
 
     #fill the parallel sentences using questions that overlap in both languages
     # fill_the_templates(tgt_lang_train, tgt_json, languages[1], "train", for_CLA_format=True, parallel=parallel)
