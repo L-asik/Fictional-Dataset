@@ -1,0 +1,20 @@
+{
+    "Birth": [
+        {
+            "question": "In quale anno è nato/nata {name}?",
+            "answer": "{name} è nato/nata nel {date}."
+        }
+    ],
+    "Death": [
+        {
+            "question": "In quale anno è morto/morta {name}?",
+            "answer": "{name} è morto/morta nel {date}."
+        }
+    ],
+    "Place of birth": [
+        {
+            "question": "In quale città è nato/nata {name}?",
+            "answer": "La città di nascita di {name} è {location}."
+        }
+    ]
+}

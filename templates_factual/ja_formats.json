@@ -1,0 +1,20 @@
+{
+    "Birth": [
+        {
+            "question": "{name}は何年に生まれましたか？",
+            "answer": "{name}は{date}年に生まれました。"
+        }
+    ],
+    "Death": [
+        {
+            "question": "{name}は何年に亡くなりましたか？",
+            "answer": "{name}は{date}に亡くなりました。"
+        }
+    ],
+    "Place of birth": [
+        {
+            "question": "{name}はどの都市で生まれましたか？",
+            "answer": "{name}の出生地は{location}です。"
+        }
+    ]
+}
